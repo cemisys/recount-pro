@@ -1,0 +1,324 @@
+{
+  "@@locale": "en",
+  "@@last_modified": "2024-01-01T00:00:00.000Z",
+  
+  "appTitle": "ReCount Pro",
+  "@appTitle": {
+    "description": "The title of the application"
+  },
+  
+  "welcome": "Welcome",
+  "@welcome": {
+    "description": "Welcome message"
+  },
+  
+  "login": "Login",
+  "@login": {
+    "description": "Login button text"
+  },
+  
+  "logout": "Logout",
+  "@logout": {
+    "description": "Logout button text"
+  },
+  
+  "email": "Email",
+  "@email": {
+    "description": "Email field label"
+  },
+  
+  "password": "Password",
+  "@password": {
+    "description": "Password field label"
+  },
+  
+  "forgotPassword": "Forgot Password?",
+  "@forgotPassword": {
+    "description": "Forgot password link text"
+  },
+  
+  "signIn": "Sign In",
+  "@signIn": {
+    "description": "Sign in button text"
+  },
+  
+  "signUp": "Sign Up",
+  "@signUp": {
+    "description": "Sign up button text"
+  },
+  
+  "profile": "Profile",
+  "@profile": {
+    "description": "Profile screen title"
+  },
+  
+  "settings": "Settings",
+  "@settings": {
+    "description": "Settings screen title"
+  },
+  
+  "theme": "Theme",
+  "@theme": {
+    "description": "Theme settings label"
+  },
+  
+  "lightTheme": "Light",
+  "@lightTheme": {
+    "description": "Light theme option"
+  },
+  
+  "darkTheme": "Dark",
+  "@darkTheme": {
+    "description": "Dark theme option"
+  },
+  
+  "systemTheme": "System",
+  "@systemTheme": {
+    "description": "System theme option"
+  },
+  
+  "language": "Language",
+  "@language": {
+    "description": "Language settings label"
+  },
+  
+  "spanish": "Spanish",
+  "@spanish": {
+    "description": "Spanish language option"
+  },
+  
+  "english": "English",
+  "@english": {
+    "description": "English language option"
+  },
+  
+  "conteo": "Count",
+  "@conteo": {
+    "description": "Count/inventory screen title"
+  },
+  
+  "vhId": "VH ID",
+  "@vhId": {
+    "description": "Vehicle ID label"
+  },
+  
+  "placa": "License Plate",
+  "@placa": {
+    "description": "License plate label"
+  },
+  
+  "productos": "Products",
+  "@productos": {
+    "description": "Products label"
+  },
+  
+  "sku": "SKU",
+  "@sku": {
+    "description": "SKU label"
+  },
+  
+  "descripcion": "Description",
+  "@descripcion": {
+    "description": "Description label"
+  },
+  
+  "cantidad": "Quantity",
+  "@cantidad": {
+    "description": "Quantity label"
+  },
+  
+  "programado": "Scheduled",
+  "@programado": {
+    "description": "Scheduled quantity label"
+  },
+  
+  "fisico": "Physical",
+  "@fisico": {
+    "description": "Physical count label"
+  },
+  
+  "diferencia": "Difference",
+  "@diferencia": {
+    "description": "Difference label"
+  },
+  
+  "novedades": "Issues",
+  "@novedades": {
+    "description": "Issues/discrepancies label"
+  },
+  
+  "faltante": "Missing",
+  "@faltante": {
+    "description": "Missing items label"
+  },
+  
+  "sobrante": "Excess",
+  "@sobrante": {
+    "description": "Excess items label"
+  },
+  
+  "guardar": "Save",
+  "@guardar": {
+    "description": "Save button text"
+  },
+  
+  "cancelar": "Cancel",
+  "@cancelar": {
+    "description": "Cancel button text"
+  },
+  
+  "confirmar": "Confirm",
+  "@confirmar": {
+    "description": "Confirm button text"
+  },
+  
+  "buscar": "Search",
+  "@buscar": {
+    "description": "Search button text"
+  },
+  
+  "filtrar": "Filter",
+  "@filtrar": {
+    "description": "Filter button text"
+  },
+  
+  "exportar": "Export",
+  "@exportar": {
+    "description": "Export button text"
+  },
+  
+  "imprimir": "Print",
+  "@imprimir": {
+    "description": "Print button text"
+  },
+  
+  "error": "Error",
+  "@error": {
+    "description": "Error message title"
+  },
+  
+  "success": "Success",
+  "@success": {
+    "description": "Success message title"
+  },
+  
+  "warning": "Warning",
+  "@warning": {
+    "description": "Warning message title"
+  },
+  
+  "info": "Information",
+  "@info": {
+    "description": "Information message title"
+  },
+  
+  "loading": "Loading...",
+  "@loading": {
+    "description": "Loading message"
+  },
+  
+  "retry": "Retry",
+  "@retry": {
+    "description": "Retry button text"
+  },
+  
+  "close": "Close",
+  "@close": {
+    "description": "Close button text"
+  },
+  
+  "yes": "Yes",
+  "@yes": {
+    "description": "Yes button text"
+  },
+  
+  "no": "No",
+  "@no": {
+    "description": "No button text"
+  },
+  
+  "ok": "OK",
+  "@ok": {
+    "description": "OK button text"
+  },
+  
+  "general": "General",
+  "@general": {
+    "description": "General settings tab"
+  },
+  
+  "metrics": "Metrics",
+  "@metrics": {
+    "description": "Metrics tab title"
+  },
+  
+  "analytics": "Analytics",
+  "@analytics": {
+    "description": "Analytics label"
+  },
+  
+  "sessionDuration": "Session Duration",
+  "@sessionDuration": {
+    "description": "Session duration label"
+  },
+  
+  "totalSessions": "Total Sessions",
+  "@totalSessions": {
+    "description": "Total sessions label"
+  },
+  
+  "productivity": "Productivity",
+  "@productivity": {
+    "description": "Productivity metrics label"
+  },
+  
+  "errorRate": "Error Rate",
+  "@errorRate": {
+    "description": "Error rate label"
+  },
+  
+  "version": "Version",
+  "@version": {
+    "description": "App version label"
+  },
+  
+  "checkUpdates": "Check for Updates",
+  "@checkUpdates": {
+    "description": "Check for updates button"
+  },
+  
+  "clearCache": "Clear Cache",
+  "@clearCache": {
+    "description": "Clear cache button"
+  },
+  
+  "autoSync": "Auto Sync",
+  "@autoSync": {
+    "description": "Auto sync setting"
+  },
+  
+  "offlineMode": "Offline Mode",
+  "@offlineMode": {
+    "description": "Offline mode setting"
+  },
+  
+  "exportMetrics": "Export Metrics",
+  "@exportMetrics": {
+    "description": "Export metrics button"
+  },
+  
+  "resetMetrics": "Reset Metrics",
+  "@resetMetrics": {
+    "description": "Reset metrics button"
+  },
+  
+  "collectMetrics": "Collect Metrics",
+  "@collectMetrics": {
+    "description": "Collect metrics setting"
+  },
+  
+  "errorReporting": "Error Reporting",
+  "@errorReporting": {
+    "description": "Error reporting setting"
+  }
+}

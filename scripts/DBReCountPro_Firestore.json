@@ -1,0 +1,2424 @@
+{
+  "SKU": {
+    "17e029e3-d778-455f-aab5-d0d22c82a49c": {
+      "SKU": 1413,
+      "DESCRIPCIÓN": "Costeña Lta 330cc X 6"
+    },
+    "9db5cd48-53de-4d5c-8821-48a567503685": {
+      "SKU": 1428,
+      "DESCRIPCIÓN": "Poker Lta 330cc X 6"
+    },
+    "a69c6634-0f03-4750-9f65-f056aedddf6e": {
+      "SKU": 2160,
+      "DESCRIPCIÓN": "Aguila Lig R 330cc X 30"
+    },
+    "706d5326-2d1d-431d-8ee0-d712efe94913": {
+      "SKU": 2171,
+      "DESCRIPCIÓN": "Aguila Lig Lta 330ccX6"
+    },
+    "7c0189bf-c06c-4877-b112-d7d8ea6a51ac": {
+      "SKU": 2174,
+      "DESCRIPCIÓN": "Aguila Lta 330cc X 6"
+    },
+    "3488b31d-22a6-4920-83d5-e549054b16e6": {
+      "SKU": 2182,
+      "DESCRIPCIÓN": "Pony Malta R 330cc X 30"
+    },
+    "42ce4582-393f-4b68-bef3-52832835940b": {
+      "SKU": 2222,
+      "DESCRIPCIÓN": "Pony Malta Pet 330cc X 24"
+    },
+    "a0223c71-f2e2-47a7-8e3e-62237ec71668": {
+      "SKU": 2223,
+      "DESCRIPCIÓN": "Pony Malta Pet 330cc X 6"
+    },
+    "16a6f6d0-34ea-44aa-b2cb-7857340ce898": {
+      "SKU": 2224,
+      "DESCRIPCIÓN": "Pony Malta Pet 1.5LX 6"
+    },
+    "fe029018-f1b5-47ad-a892-174b92f9cd11": {
+      "SKU": 2511,
+      "DESCRIPCIÓN": "Cola&Pola RN 330cc X 30"
+    },
+    "36525da5-1b84-4dad-a564-94a98a8011a7": {
+      "SKU": 2512,
+      "DESCRIPCIÓN": "Poker R 330cc X 30"
+    },
+    "f950ee69-c4c4-4a72-a8b6-c3dd53379189": {
+      "SKU": 2759,
+      "DESCRIPCIÓN": "Pony Malta Pet 200cc X 6"
+    },
+    "d3f7830c-c4fc-4b8b-acec-4f90d380158f": {
+      "SKU": 2882,
+      "DESCRIPCIÓN": "Cola&Pola Pet 1.5L X 6"
+    },
+    "210c774f-879e-4eea-a5ed-cf6b7e1d4dd2": {
+      "SKU": 2976,
+      "DESCRIPCIÓN": "Cola&Pola Lta 330cc X 6"
+    },
+    "5d195872-af2f-43fa-b97e-2895b639388b": {
+      "SKU": 3128,
+      "DESCRIPCIÓN": "Aguila RN 330cc X 30"
+    },
+    "78111091-f078-4465-bd23-9dc6a425fc92": {
+      "SKU": 3228,
+      "DESCRIPCIÓN": "Redds Cold Lta 269ccX6"
+    },
+    "581700a0-2f46-4c8c-a713-1e78c8952010": {
+      "SKU": 3617,
+      "DESCRIPCIÓN": "Costeñita R 175cc X 38"
+    },
+    "5102f42a-8763-4ba4-8514-a9b3f5b20c9f": {
+      "SKU": 3751,
+      "DESCRIPCIÓN": "Club Col R 330cc X 30 N"
+    },
+    "88a23d4b-b86d-458c-8a84-5028171e9763": {
+      "SKU": 3759,
+      "DESCRIPCIÓN": "Club Col RJ R 330cc X 30 N"
+    },
+    "1f346625-8f6e-47d5-8da8-edb18a8e342a": {
+      "SKU": 3787,
+      "DESCRIPCIÓN": "Club Col TW 330ccX6 N"
+    },
+    "9f041c1a-db35-4120-94cc-6787eef7845a": {
+      "SKU": 3810,
+      "DESCRIPCIÓN": "Pony Malta Pet 200ccX30"
+    },
+    "c547b7e8-59a6-4de3-b035-64fe0da7938a": {
+      "SKU": 5252,
+      "DESCRIPCIÓN": "Club Col Lta 330X6 N"
+    },
+    "6773fe7d-f9d4-46d9-91c5-444ea5a7b608": {
+      "SKU": 5255,
+      "DESCRIPCIÓN": "Club Col RJ Lta 330X6 N"
+    },
+    "6b3ffc85-0d61-4eb0-9a66-d094cebdbd7c": {
+      "SKU": 5257,
+      "DESCRIPCIÓN": "Club Col NG Lta 330ccX6 N"
+    },
+    "8364dd32-3135-490a-af66-ee118b688bf4": {
+      "SKU": 7078,
+      "DESCRIPCIÓN": "Pony Malta Pet 1.0L X 15"
+    },
+    "e264b197-c7b5-4a3f-ae1b-cb508b24a01e": {
+      "SKU": 7584,
+      "DESCRIPCIÓN": "Aguila Lig Lta 269cc X 6."
+    },
+    "31a41aa4-faf7-4c15-95d0-c3f35e5472e0": {
+      "SKU": 7596,
+      "DESCRIPCIÓN": "BBC Lager Nr330ccX6"
+    },
+    "8c8a9a6c-fcbf-4380-b369-14f8883d80c3": {
+      "SKU": 7599,
+      "DESCRIPCIÓN": "BBC Cajica Miel Nr330ccX4"
+    },
+    "cd193fcf-330e-450c-9968-c8e08c9db7e1": {
+      "SKU": 7605,
+      "DESCRIPCIÓN": "BBC Monserrate Rj Nr330ccX4"
+    },
+    "827735dc-fc9b-4a97-95a2-e63e96dea6f9": {
+      "SKU": 7991,
+      "DESCRIPCIÓN": "Budweiser Nr 250ccX24"
+    },
+    "58daf09e-4301-47df-afee-f8989f9c278a": {
+      "SKU": 7993,
+      "DESCRIPCIÓN": "Budweiser Lta CO 269ccX24."
+    },
+    "d3840319-c0e9-4ed7-ac4b-46c17c07cf6c": {
+      "SKU": 8042,
+      "DESCRIPCIÓN": "Budweiser Nr 250ccX6"
+    },
+    "61361e71-be06-4163-8075-a5551f0b21bd": {
+      "SKU": 8532,
+      "DESCRIPCIÓN": "Club Col Lata 269cc X 6"
+    },
+    "5e752977-2910-4c33-b9cc-0c4d86de59a6": {
+      "SKU": 8878,
+      "DESCRIPCIÓN": "Malta Leona Pet 400cc x 6"
+    },
+    "105126b1-49bc-45a6-afca-26ffaa0e5668": {
+      "SKU": 8923,
+      "DESCRIPCIÓN": "AZTECA Lata-330 X 6"
+    },
+    "191ee32d-d129-4efc-a431-5033c9e53bfb": {
+      "SKU": 9480,
+      "DESCRIPCIÓN": "POKER RN 1000cc X 13"
+    },
+    "cd686aa5-a1bf-465c-be2c-7d01849334c4": {
+      "SKU": 9482,
+      "DESCRIPCIÓN": "Aguila Lig RN 1000cc X 13"
+    },
+    "29ea230d-8bb1-43f0-90e8-a5a9384afc48": {
+      "SKU": 9494,
+      "DESCRIPCIÓN": "AGUILA RN 1000cc X 13"
+    },
+    "70ca9d1e-ea48-44aa-88a6-076a8328b72f": {
+      "SKU": 9508,
+      "DESCRIPCIÓN": "Coronita NR 210cc X 6"
+    },
+    "d594b7a6-7e62-435a-a6c8-0be234bd7ccf": {
+      "SKU": 9551,
+      "DESCRIPCIÓN": "Aguila 0.0 RB 330CC X 30"
+    },
+    "db4980c9-a58b-45e7-8ba1-2429bd8c243c": {
+      "SKU": 9672,
+      "DESCRIPCIÓN": "Budweiser Lta 269ccX6 TERMO."
+    },
+    "d5980468-00af-4460-a336-c4578c5fbb5a": {
+      "SKU": 9856,
+      "DESCRIPCIÓN": "Aguila TW 330cc X 24 MANUAL"
+    },
+    "b2935616-2d77-44d9-8587-910c702cb09a": {
+      "SKU": 9909,
+      "DESCRIPCIÓN": "AGUILA LTA 269CC X 6."
+    },
+    "f772f436-b283-45a7-95e2-9e437ef51bab": {
+      "SKU": 11969,
+      "DESCRIPCIÓN": "Pony Malta Pet 2.0L X6"
+    },
+    "a14c74b6-184c-44b4-8076-218817b33c57": {
+      "SKU": 12026,
+      "DESCRIPCIÓN": "Agua Zalva Sin Gas Pet 600 X 12"
+    },
+    "3e2db7ad-5e0f-4090-8208-b82704b40d8c": {
+      "SKU": 12283,
+      "DESCRIPCIÓN": "BBC CAJICA MIEL LTA 269X4."
+    },
+    "bb03da59-fa23-43a2-9b05-486a98600108": {
+      "SKU": 13451,
+      "DESCRIPCIÓN": "COSTENA BACANA BR 320CCX30"
+    },
+    "ef4f38a6-79a7-43f1-939b-f6f06d8e8cf1": {
+      "SKU": 13631,
+      "DESCRIPCIÓN": "POKER LATA 269 X 6"
+    },
+    "ade45db0-c73c-4ee9-95db-7b50e402e7fa": {
+      "SKU": 13766,
+      "DESCRIPCIÓN": "BAHIA LTA 330CC X 6"
+    },
+    "f18eb065-343d-400f-9ce5-1cb6e37c20ce": {
+      "SKU": 14703,
+      "DESCRIPCIÓN": "AGUILA 0.0 LTA 330CCX6"
+    },
+    "39960423-9f8e-47e2-8feb-ddd20f81dc43": {
+      "SKU": 14709,
+      "DESCRIPCIÓN": "COSTENA BACANA LATA 330CCX6"
+    },
+    "c5d7004a-b1e4-4aa2-aa89-d5163e414e5f": {
+      "SKU": 15007,
+      "DESCRIPCIÓN": "Nativa BR 330x30 Norte"
+    },
+    "0d3142c3-e41d-4834-907a-e5f037fdc56a": {
+      "SKU": 15150,
+      "DESCRIPCIÓN": "Chivas Regal 12 Años 200 ml"
+    },
+    "8b63696b-bb79-44f5-afae-f22657bc79e7": {
+      "SKU": 15151,
+      "DESCRIPCIÓN": "Chivas Regal 12 Años Whisky 700 ml"
+    },
+    "0143ef0b-d90d-4bfc-aecd-b98bfc456032": {
+      "SKU": 15152,
+      "DESCRIPCIÓN": "Olmeca Reposado Tequila 700ML"
+    },
+    "4d128851-6499-44e4-b1ac-e27f3bb30e95": {
+      "SKU": 15153,
+      "DESCRIPCIÓN": "Something Special Whisky 750ML"
+    },
+    "e924337c-fdad-45fb-a778-8af5ab19bc6b": {
+      "SKU": 15381,
+      "DESCRIPCIÓN": "Smirnoff Vodka  Lulo 750 ml"
+    },
+    "6cdb510b-0826-4df7-8f5e-744c8fccd22f": {
+      "SKU": 15382,
+      "DESCRIPCIÓN": "Smirnoff Vodka Lulo 375 ml"
+    },
+    "5ab0aa4f-26ec-47f1-83ff-e9d735f1348d": {
+      "SKU": 15552,
+      "DESCRIPCIÓN": "Antioqueño Aguardiente SA Verde 1 L"
+    },
+    "f1f1e701-c54e-474e-89b2-ed0a6b8c1fe1": {
+      "SKU": 15554,
+      "DESCRIPCIÓN": "Antioqueño Aguardiente SA Verde 750 ml"
+    },
+    "a8e36852-a374-466f-99cb-ac55eecfa741": {
+      "SKU": 15555,
+      "DESCRIPCIÓN": "Antioqueño Aguardiente SA Verde 375 ml"
+    },
+    "9167f1c2-1f4b-41db-877f-9af3271095e8": {
+      "SKU": 15781,
+      "DESCRIPCIÓN": "CLUB COL DORADA R 850CC X 13"
+    },
+    "d596050d-7d42-4d93-895a-44fafac45d6b": {
+      "SKU": 16090,
+      "DESCRIPCIÓN": "ANTIOQUEÑO Aguard SinAz 375ml"
+    },
+    "3817c183-beac-4bff-a7a4-0024839fb7a4": {
+      "SKU": 16091,
+      "DESCRIPCIÓN": "ANTIOQUEÑO Aguard SinAz Tetra 1050ml"
+    },
+    "8aef558f-2f43-40e5-a672-2ccd9b3fdc07": {
+      "SKU": 16092,
+      "DESCRIPCIÓN": "JOHNNIE WALKER RED LABEL Whisky 700 ml"
+    },
+    "7f2ee0a8-cd49-484a-afa2-92acfc570c82": {
+      "SKU": 16093,
+      "DESCRIPCIÓN": "JOHNNIE WALKER RED LABEL Whisky 375 ml"
+    },
+    "2f64de9b-9f9a-430e-a262-ebee41e03916": {
+      "SKU": 16094,
+      "DESCRIPCIÓN": "BLACK & WHITE Whisky  700 ml"
+    },
+    "612f8722-781e-48fb-a1b3-a188b6847c7f": {
+      "SKU": 16095,
+      "DESCRIPCIÓN": "BLACK & WHITE Whisky  375 ml"
+    },
+    "db478145-1b45-40c5-8dc6-9fba67385bb5": {
+      "SKU": 16097,
+      "DESCRIPCIÓN": "ANTIOQUEÑO Aguard SinAz 750ml"
+    },
+    "49e1ad22-ec0e-4098-a179-670466e5a968": {
+      "SKU": 16099,
+      "DESCRIPCIÓN": "BUCHANAN'S DELUXE Whisky 750ml"
+    },
+    "498d2831-f18f-48e1-a165-b751f9287636": {
+      "SKU": 16100,
+      "DESCRIPCIÓN": "OLD PARR Whisky 750ml"
+    },
+    "626b15f3-8c4a-4b73-87e9-af650801fcac": {
+      "SKU": 16151,
+      "DESCRIPCIÓN": "ChocoKrispis Sachet 30g x 8UN"
+    },
+    "86a69c1a-59ec-453e-9365-f04fa81bd147": {
+      "SKU": 16153,
+      "DESCRIPCIÓN": "FrootLoops Sachet 25gx 8UN"
+    },
+    "2b07c546-ae5d-4bc7-86db-e83e702f83d6": {
+      "SKU": 16210,
+      "DESCRIPCIÓN": "PONY MALTA LTA 330CCX 6 NUEVO"
+    },
+    "040a070d-c3e2-4a44-8f2f-a904caab0492": {
+      "SKU": 16223,
+      "DESCRIPCIÓN": "Passport Whisky 700 ml"
+    },
+    "5fe456a3-b727-4325-be80-118e7a21b40a": {
+      "SKU": 16224,
+      "DESCRIPCIÓN": "Absolut Vodka 700 ml"
+    },
+    "5dc77ef2-9fe1-469d-a153-ed01a4ed3b49": {
+      "SKU": 16225,
+      "DESCRIPCIÓN": "Olmeca Silver Tequila 700ml"
+    },
+    "8d3f5469-8206-4df3-b94d-6767e8f52606": {
+      "SKU": 16466,
+      "DESCRIPCIÓN": "AUSTEN LTA 330CC X6"
+    },
+    "177fce40-cc51-4bb0-bd29-d805c31feac3": {
+      "SKU": 16921,
+      "DESCRIPCIÓN": "Smirnoff Lulo Vodka tetrapack 1L"
+    },
+    "7d0fa748-5177-46e5-94ec-452ce121bf55": {
+      "SKU": 17154,
+      "DESCRIPCIÓN": "CORONA EXTRA 269 LTA X24 REM"
+    },
+    "78bfc0dc-8b03-4cc6-a375-9dbe184cd637": {
+      "SKU": 17155,
+      "DESCRIPCIÓN": "CORONA EXTRA 269 LTA X6 REM"
+    },
+    "6c26412b-7202-411f-b61e-53963556defd": {
+      "SKU": 17159,
+      "DESCRIPCIÓN": "SAVILOE 320ML X 6UN"
+    },
+    "f42dcf92-c474-4b7a-b95d-acd5ed1b76b0": {
+      "SKU": 17160,
+      "DESCRIPCIÓN": "VIVE 100 240MLX6UN"
+    },
+    "035e1271-e87b-4e34-987c-720d1d44c9c5": {
+      "SKU": 17163,
+      "DESCRIPCIÓN": "VIVE 100 REGULAR 380ML X6UN"
+    },
+    "a261a52e-962e-4316-8c58-d8abf2cd253a": {
+      "SKU": 17660,
+      "DESCRIPCIÓN": "Gatorade Mandarina 500ml x 12un"
+    },
+    "591a2ae6-4d97-4d71-81c1-792900e17639": {
+      "SKU": 17661,
+      "DESCRIPCIÓN": "Gatorade Maracuya 500ml x 12un"
+    },
+    "e7af101d-ac3d-44b6-a13f-e66e2f5f77af": {
+      "SKU": 17664,
+      "DESCRIPCIÓN": "Manzana Gaseosa Postobon 400ml x 15un"
+    },
+    "59a6ddea-27e9-4528-a492-3821c2dae82e": {
+      "SKU": 17667,
+      "DESCRIPCIÓN": "Colombiana Gaseosa 400ml x 15un"
+    },
+    "fc9f8eb2-38ba-4dba-ad53-8ba0385bc90f": {
+      "SKU": 17756,
+      "DESCRIPCIÓN": "Hit Jugo Frutas Tropical Pet 500ml x12un"
+    },
+    "d4c148f0-03cd-4142-a443-c4ae78a78783": {
+      "SKU": 17781,
+      "DESCRIPCIÓN": "Hit Jugo Mango Pet 500ml x12un"
+    },
+    "beb7a223-4691-4148-b85e-f60486624316": {
+      "SKU": 17868,
+      "DESCRIPCIÓN": "Chivas Regal Extra 13 anos Whisky  700ml"
+    },
+    "c12493ea-90c2-4496-a874-24adf75a7e83": {
+      "SKU": 18274,
+      "DESCRIPCIÓN": "Passport Whisky 200 ml"
+    },
+    "af2bf030-ac52-4bc0-beaf-3da2d3e713ba": {
+      "SKU": 18473,
+      "DESCRIPCIÓN": "Vasos Plasticos 7oz x 50 un"
+    },
+    "20df4154-b364-40f1-8374-b998c3c45420": {
+      "SKU": 19047,
+      "DESCRIPCIÓN": "Yupis Salado 12g x 12un"
+    },
+    "648a95fa-c9fa-4594-94a6-11663a2eb037": {
+      "SKU": 19126,
+      "DESCRIPCIÓN": "Something Special Whisky 200 ml"
+    },
+    "c6f8898e-cf51-45a4-b444-d0e8d8f6ff1d": {
+      "SKU": 19127,
+      "DESCRIPCIÓN": "Something Special Whisky 350 ml"
+    },
+    "cea7ca8e-74b4-4871-a1b7-725063e2b880": {
+      "SKU": 19128,
+      "DESCRIPCIÓN": "The Glenlivet Founders Whisky 700 ml"
+    },
+    "de7313ff-f190-4629-b6a4-90f96ba2e849": {
+      "SKU": 19129,
+      "DESCRIPCIÓN": "Ballantines Whisky 700 ml"
+    },
+    "ff6c7792-31c1-48ed-841d-a2766ee33188": {
+      "SKU": 19130,
+      "DESCRIPCIÓN": "Ballantines Whisky 200 ml"
+    },
+    "41ec15c0-880b-4f32-aebf-06821f323277": {
+      "SKU": 19131,
+      "DESCRIPCIÓN": "Olmeca Reposado Tequila 350 ml"
+    },
+    "98eb55d2-481f-490d-b9a4-f3a4b9332609": {
+      "SKU": 19135,
+      "DESCRIPCIÓN": "La Hechicera Ron 700 ml"
+    },
+    "fa162a28-1d38-4aa3-b902-57d21c61598f": {
+      "SKU": 19255,
+      "DESCRIPCIÓN": "SPARTAN XTREME 269ML LATA x6"
+    },
+    "15bcfd5b-4982-4cc6-bd08-20fd7a78765d": {
+      "SKU": 19303,
+      "DESCRIPCIÓN": "BAHIA LAGER LTA 330CC X6"
+    },
+    "6e6b1ce3-9bbf-4c69-9dea-804677b4cf3e": {
+      "SKU": 19654,
+      "DESCRIPCIÓN": "Hit Jugo Lulo Pet 500mlx12und"
+    },
+    "dec9aecd-973c-4dc7-80da-bbc838d6fbe2": {
+      "SKU": 19823,
+      "DESCRIPCIÓN": "AMPER ENERGY 473mlx6und"
+    },
+    "70e29f44-5a15-45e9-9b3f-ac21522b8784": {
+      "SKU": 20050,
+      "DESCRIPCIÓN": "CORONA NRB 330CC X6"
+    },
+    "e270e9cd-8b7a-4945-a291-c719429ae6ec": {
+      "SKU": 20117,
+      "DESCRIPCIÓN": "Red Bull Sugar Free 250ml x 4un"
+    },
+    "b2689cb0-8967-4374-874d-3e075a25092e": {
+      "SKU": 20118,
+      "DESCRIPCIÓN": "Red Bull Sandia 250ml x 4un"
+    },
+    "abb09ecb-8128-478f-9a9a-578b44f4de26": {
+      "SKU": 20131,
+      "DESCRIPCIÓN": "Like Fusion Berries 300mlx24 und"
+    },
+    "9752874b-07f7-4129-8a1a-8a5d8e5ea90c": {
+      "SKU": 20132,
+      "DESCRIPCIÓN": "Like Fresh Apple 300mlx24und"
+    },
+    "53f7eed5-ee61-48f6-add2-b96791c6e891": {
+      "SKU": 20133,
+      "DESCRIPCIÓN": "Like Citrus 300mlx24und"
+    },
+    "a17e3919-98e7-4eda-97ba-cfc5ec35f0fc": {
+      "SKU": 20230,
+      "DESCRIPCIÓN": "Vino de Manzana Carinoso 750ml X1"
+    },
+    "eaefe293-588a-406d-9bb9-b35e30bfa316": {
+      "SKU": 20284,
+      "DESCRIPCIÓN": "Papas Clasicas Limon Pimienta 36g x 8 un"
+    },
+    "0dd27fb2-0b9c-44cf-989a-215f4b016cf5": {
+      "SKU": 20463,
+      "DESCRIPCIÓN": "STELLA ARTOIS NRB 300CC X6"
+    },
+    "2295d378-bd9b-4edb-b0a4-ea8cfdc28637": {
+      "SKU": 20469,
+      "DESCRIPCIÓN": "STELLA ARTOIS LTA 269CC X6"
+    },
+    "dbed25ee-491e-4fe0-a23c-d40258399379": {
+      "SKU": 20546,
+      "DESCRIPCIÓN": "AGUILA ORIGINAL RB 250CC X38"
+    },
+    "119853d4-1808-44c2-94d1-3a53988fb2ae": {
+      "SKU": 20653,
+      "DESCRIPCIÓN": "Advil Gripa 200mg x 20 Capsulas"
+    },
+    "551db296-1ccf-4180-97dd-b4d939160e62": {
+      "SKU": 20654,
+      "DESCRIPCIÓN": "Advil Ultra 200mg x 20 Capsulas"
+    },
+    "b0562079-2a30-40dd-b70d-37ceccbaab2d": {
+      "SKU": 20655,
+      "DESCRIPCIÓN": "Advil Max 400mg x 20 Capsulas"
+    },
+    "f0aac03e-20e1-4ae0-b801-30570600901e": {
+      "SKU": 20656,
+      "DESCRIPCIÓN": "Chapstick Surtido Tiendas x 4un"
+    },
+    "0a0aaa15-d006-43d5-bce7-2212a6c427d9": {
+      "SKU": 20657,
+      "DESCRIPCIÓN": "Dolex Base x 50 Tabletas"
+    },
+    "2891ce0b-b502-4747-a2d7-290f1b67c803": {
+      "SKU": 20659,
+      "DESCRIPCIÓN": "Dolex Gripa x 48 Tabletas"
+    },
+    "509b4dd5-59a5-4fd9-9723-f1b03f16a2e6": {
+      "SKU": 20660,
+      "DESCRIPCIÓN": "Condones Today Pack Surtido x 12 un"
+    },
+    "61997bdc-4d1e-4576-b0fe-2ee756abb1ab": {
+      "SKU": 20668,
+      "DESCRIPCIÓN": "AGUILA LTA 330CC X6 LOOSE PACK LN9"
+    },
+    "dcc7035f-adbd-455f-82c8-6dd0acd7d678": {
+      "SKU": 20672,
+      "DESCRIPCIÓN": "POKER LTA 330CC X6 LOOSE PACK LN9"
+    },
+    "239ca871-edf1-43d5-9e75-f84d7c7f4447": {
+      "SKU": 20867,
+      "DESCRIPCIÓN": "COSTEÑA RB 330CC X30"
+    },
+    "2e9278a4-e060-44f1-84a7-77d2dfc1a51e": {
+      "SKU": 20877,
+      "DESCRIPCIÓN": "COSTEÑA RB 750CC X16"
+    },
+    "8c2799e4-8a4b-452d-9341-f54df892c577": {
+      "SKU": 20966,
+      "DESCRIPCIÓN": "The Glenlivet 12 Whisky 700ml"
+    },
+    "b71a32b5-a3c0-4718-b69a-27bfa3ddcd66": {
+      "SKU": 20967,
+      "DESCRIPCIÓN": "Something Special Whisky 1L"
+    },
+    "b6450a42-4eb7-459d-95e1-8538adc1764f": {
+      "SKU": 21146,
+      "DESCRIPCIÓN": "CLUB COLOMBIA LTA 473CC X6"
+    },
+    "8676301b-53d3-4917-90de-b88650d6cb90": {
+      "SKU": 21155,
+      "DESCRIPCIÓN": "CLUB COLOMBIA TRIGO LTA 330 X6"
+    },
+    "bc161706-c619-4307-a169-086d9051c2a3": {
+      "SKU": 21156,
+      "DESCRIPCIÓN": "CLUB COLOMBIA TRIGO RB 330CC X30"
+    },
+    "8d80feca-1188-4bd2-baf8-91fddc09d496": {
+      "SKU": 21159,
+      "DESCRIPCIÓN": "BBC ROSE LATA 269CC X4"
+    },
+    "005acd63-ef0f-4516-b566-432e90497df5": {
+      "SKU": 21161,
+      "DESCRIPCIÓN": "BBC ROSE NR BOT 330CC X4"
+    },
+    "58a52eff-8da3-42fc-aa41-ab9d5230c1ab": {
+      "SKU": 21166,
+      "DESCRIPCIÓN": "CLUB COLOMBIA TRIGO NRB 330CC X24 REEMP"
+    },
+    "1fbaa486-90dc-4978-ad3c-1c55fb303d9d": {
+      "SKU": 21173,
+      "DESCRIPCIÓN": "PONY MALTA LESS SUGAR PET 1000CC X15"
+    },
+    "7aaf4737-5a30-4742-b951-6c4df25fcd86": {
+      "SKU": 21177,
+      "DESCRIPCIÓN": "MODELO ESPECIAL NRB 355CC X6 IMPO"
+    },
+    "7c74e4d2-d9c4-4d3d-ac74-884bafc144ba": {
+      "SKU": 21189,
+      "DESCRIPCIÓN": "MICHELOB ULTRA LATA 269CC X6 PL"
+    },
+    "b2e8d5b2-cc8f-436e-a3e1-3d99058c74a0": {
+      "SKU": 21204,
+      "DESCRIPCIÓN": "KAUFMANN LATA 330CC X6"
+    },
+    "6744395c-b088-40f3-973d-7d7d693ca9ab": {
+      "SKU": 21255,
+      "DESCRIPCIÓN": "CORONA CERO NRB 330CC X6"
+    },
+    "bfd1e16d-b0f7-46d1-a1e0-f1fb700c8184": {
+      "SKU": 21291,
+      "DESCRIPCIÓN": "IMP Heinz Compota pera 113 gr x24un"
+    },
+    "2bc12e07-6ddf-461b-bd74-e21ba2714142": {
+      "SKU": 21407,
+      "DESCRIPCIÓN": "Dolex Forte x 20 Tabletas"
+    },
+    "f0ef3af5-1c85-4d29-973e-a70601ed40b6": {
+      "SKU": 21429,
+      "DESCRIPCIÓN": "Electrolit Fresa 625mlx3und"
+    },
+    "41c14a1e-da76-4979-ae1e-522f7bc6214d": {
+      "SKU": 21430,
+      "DESCRIPCIÓN": "Electrolit Naranja Mandarina 625mlx3und"
+    },
+    "170ba934-4fe0-4967-9333-af3dfe6db109": {
+      "SKU": 21431,
+      "DESCRIPCIÓN": "Electrolit Jamaica 625mlx3und"
+    },
+    "e98718d4-b4ce-4d1f-8bb4-ed32906ecaeb": {
+      "SKU": 21447,
+      "DESCRIPCIÓN": "PONY MALTA LESS SUGAR PET 200CC X6"
+    },
+    "2b11865d-d493-48be-b305-4fb974b9c8f7": {
+      "SKU": 21454,
+      "DESCRIPCIÓN": "Like Sixpack x 300 ml Apple"
+    },
+    "9b4ec322-0916-4914-94fb-a57d9b994fc6": {
+      "SKU": 21581,
+      "DESCRIPCIÓN": "Rizadas Mayonesa 36g x 8un"
+    },
+    "4fb09b7b-c38a-4e93-bc01-09c423141d54": {
+      "SKU": 21582,
+      "DESCRIPCIÓN": "Golpe con todo BBQ 50g x 8un"
+    },
+    "eddc4f07-8328-4c38-bd34-5a7b915ce4f1": {
+      "SKU": 21594,
+      "DESCRIPCIÓN": "Beefeater Ginebra 1000 ml"
+    },
+    "9cc0581c-38a1-455b-85cd-d1a487577b0d": {
+      "SKU": 21595,
+      "DESCRIPCIÓN": "AP Dubonnet Aperitivo 750 ml"
+    },
+    "8c11c66c-6abc-4f80-b9fc-fc2186b2e796": {
+      "SKU": 21596,
+      "DESCRIPCIÓN": "AP Dubonnet Aperitivo 375 ml"
+    },
+    "4dc37e96-78fb-4b95-b8c3-950028fb84f2": {
+      "SKU": 21597,
+      "DESCRIPCIÓN": "The Glenlivet Caribean Reserve Whisky 70"
+    },
+    "cff7670a-688e-4a55-a61f-dfc137f216f0": {
+      "SKU": 21598,
+      "DESCRIPCIÓN": "Royal Salute Whisky 21 Anos 700 ml"
+    },
+    "1b5933cd-88d2-4447-b1c7-8066eda2a258": {
+      "SKU": 21599,
+      "DESCRIPCIÓN": "Passport Whisky 1000 ml"
+    },
+    "8dd50ccd-c755-4157-9b5d-d8a80ef2b138": {
+      "SKU": 21600,
+      "DESCRIPCIÓN": "Chivas Regal 18 Anos Whisky 700 ml"
+    },
+    "c949d2bd-f04e-47cf-9104-b81fbcf463a8": {
+      "SKU": 21601,
+      "DESCRIPCIÓN": "Chivas Regal 18 Anos Whisky 50 ml"
+    },
+    "6bd977da-9e02-48d2-9e7d-53aee0299b78": {
+      "SKU": 21602,
+      "DESCRIPCIÓN": "Chivas Regal 12 Anos Whisky 50 ml"
+    },
+    "d72336cb-da53-47c4-b756-cc58f4e1739d": {
+      "SKU": 21603,
+      "DESCRIPCIÓN": "Absolut Vodka 50 ml"
+    },
+    "7a66ca2b-2d8f-4e7d-9c63-ab7af077e69c": {
+      "SKU": 21604,
+      "DESCRIPCIÓN": "Absolut Vodka 350 ml"
+    },
+    "ca4df6b9-0ba8-4b80-9f01-22c7b3bf9d06": {
+      "SKU": 21605,
+      "DESCRIPCIÓN": "Absolut Vodka 1000 ml"
+    },
+    "0e3e377c-2511-4fe1-b275-329005a40be6": {
+      "SKU": 21606,
+      "DESCRIPCIÓN": "La Hechicera Ron 50 ml"
+    },
+    "e5c60bab-3288-42d6-acd5-05784a6f01fe": {
+      "SKU": 21607,
+      "DESCRIPCIÓN": "Beefeater Ginebra 700 ml"
+    },
+    "3158d2e0-dc8e-4982-b526-7829f561b4ac": {
+      "SKU": 21608,
+      "DESCRIPCIÓN": "Jameson Irish Whiskey 350 ml"
+    },
+    "b351a2ae-1d64-45fe-b977-7c34ef579053": {
+      "SKU": 21609,
+      "DESCRIPCIÓN": "Jameson Irish Whiskey 700 ml"
+    },
+    "b445ea46-e3d9-4e91-bd7a-27390dc7e358": {
+      "SKU": 21610,
+      "DESCRIPCIÓN": "Wyborowa Vodka 700 ml"
+    },
+    "cabfc004-f0ed-4d4e-ad4a-00a1494f00d3": {
+      "SKU": 21611,
+      "DESCRIPCIÓN": "Wyborowa Vodka 1000 ml"
+    },
+    "e95bcd15-60c3-4670-bec6-439471ed8d42": {
+      "SKU": 21612,
+      "DESCRIPCIÓN": "Olmeca Tequila Chocolate 700 ml"
+    },
+    "d8a79590-5327-47f8-875a-5d7ba085b589": {
+      "SKU": 21613,
+      "DESCRIPCIÓN": "Malibu Ron 750 ml"
+    },
+    "35814258-8dc1-4e9a-9bff-9c4c852acc51": {
+      "SKU": 21614,
+      "DESCRIPCIÓN": "La Hechicera Banano Ron 700 ml"
+    },
+    "f7711708-833e-4c06-bc40-b57fe707145f": {
+      "SKU": 21615,
+      "DESCRIPCIÓN": "Havana Club Ron 3 anos 700 ml"
+    },
+    "88610eaa-1c9b-492d-bcf9-bba894922cde": {
+      "SKU": 21616,
+      "DESCRIPCIÓN": "Ojo De Tigre Mezcal 750 ml"
+    },
+    "1ccc9a5c-3b37-48c9-a820-e60c912b535a": {
+      "SKU": 21625,
+      "DESCRIPCIÓN": "Red Bull Energy 250ml x 4un"
+    },
+    "7a9a1602-84de-42a3-9e1a-592d075d41a1": {
+      "SKU": 21627,
+      "DESCRIPCIÓN": "Alka Seltzer Extreme x 8 sobres"
+    },
+    "37d35067-d7e3-42a2-93c9-a2947a741420": {
+      "SKU": 21628,
+      "DESCRIPCIÓN": "Pedialyte Active 30 CEREZA 500ML x3"
+    },
+    "a3b08287-23b9-4041-9a0f-5f3951ecba1f": {
+      "SKU": 21629,
+      "DESCRIPCIÓN": "Pedialyte Active 30 COCO 500ML x3"
+    },
+    "ae5c5e34-d25d-4b20-8dc2-445624feaa03": {
+      "SKU": 21630,
+      "DESCRIPCIÓN": "Pedialyte MAX 60 MANZANA 500ML x 3"
+    },
+    "70af58e3-eec7-45fc-9c53-fec740fb3cba": {
+      "SKU": 21631,
+      "DESCRIPCIÓN": "Pedialyte MAX 60 UVA 500ML x3"
+    },
+    "e1764be8-e1aa-42f7-9532-8cb91c05b5b6": {
+      "SKU": 21632,
+      "DESCRIPCIÓN": "Pedialyte MAX 60 FRESA 500ML x3"
+    },
+    "7ecd5297-7c20-4fcc-848d-b7c615c81edd": {
+      "SKU": 21661,
+      "DESCRIPCIÓN": "Electrolit Uva 625mlx3und"
+    },
+    "2ffa8699-de0a-4db6-9897-0377b03539f7": {
+      "SKU": 21662,
+      "DESCRIPCIÓN": "Electrolit Maracuya 625mlx3und"
+    },
+    "8b02816a-b94f-4a41-9b69-d514152040f0": {
+      "SKU": 21663,
+      "DESCRIPCIÓN": "Electrolit Mora Azul 625mlx3und"
+    },
+    "6f4b4321-2364-44b6-ae43-02f733aed46c": {
+      "SKU": 21664,
+      "DESCRIPCIÓN": "Electrolit Fresa Kiwi 625mlx3und"
+    },
+    "add2f95e-9c94-463a-848a-19dfba1ff960": {
+      "SKU": 21681,
+      "DESCRIPCIÓN": "Four Loko Ponche de Frutas 473ml x 6un"
+    },
+    "6fe1bb56-716e-43d0-8154-c94b0401549c": {
+      "SKU": 21683,
+      "DESCRIPCIÓN": "Four Loko Purple 473ml x 6un"
+    },
+    "ab19f69d-0511-4c1b-a3e8-230b702e2f1b": {
+      "SKU": 21684,
+      "DESCRIPCIÓN": "Four Loko Green Apple 473ml x 6un"
+    },
+    "b996c007-0036-446f-9a4c-d9d32d87236d": {
+      "SKU": 21688,
+      "DESCRIPCIÓN": "Four Loko Purple 355ml x 4un"
+    },
+    "aab38b55-50ad-45f9-9e9a-059a1be8d1b9": {
+      "SKU": 21703,
+      "DESCRIPCIÓN": "PONY MALTA GO PET 2.0L X6"
+    },
+    "8a56ab4e-0cc9-45d2-b3d5-6fc617051fba": {
+      "SKU": 21718,
+      "DESCRIPCIÓN": "OLD PARR Whisky 1000ml"
+    },
+    "ebc29b55-2e97-41ec-aebf-39edb2e7280b": {
+      "SKU": 21719,
+      "DESCRIPCIÓN": "BUCHANANS DELUXE Whisky 1000ml"
+    },
+    "779e0218-4274-4f90-8810-88bce8f6ca89": {
+      "SKU": 21730,
+      "DESCRIPCIÓN": "REDDS ROSE LTA 269CC X6"
+    },
+    "13e1c044-1129-4f7e-a0dc-02813cd35c03": {
+      "SKU": 21775,
+      "DESCRIPCIÓN": "Havana Seleccion Maestros Ron 700 ml"
+    },
+    "2d8ffe16-cbc8-425d-b904-8913bc8ec2e5": {
+      "SKU": 21776,
+      "DESCRIPCIÓN": "Olmeca Reposado Tequila 1000 ml"
+    },
+    "e74f1077-5e9e-4b13-b08b-47bd7540abe7": {
+      "SKU": 21777,
+      "DESCRIPCIÓN": "Olmeca Silver Tequila 1000 ml"
+    },
+    "a6d5bf9a-7597-4c6d-becb-e76d9f36d8a3": {
+      "SKU": 21778,
+      "DESCRIPCIÓN": "The Glenlivet 15 Whisky 700 ml"
+    },
+    "5c1bdd12-1ee1-414e-ab22-a35170f587b5": {
+      "SKU": 21779,
+      "DESCRIPCIÓN": "Soho Licor 700 ml"
+    },
+    "d5a28095-b8fc-41ef-9008-7d5fbe063147": {
+      "SKU": 21780,
+      "DESCRIPCIÓN": "Chivas Regal Extra 13 Anos Whisky 1000ml"
+    },
+    "6ed48af5-a661-48b7-ab25-6bc45010f0c3": {
+      "SKU": 21781,
+      "DESCRIPCIÓN": "Absolut Citron Vodka 700 ml"
+    },
+    "a6864166-2495-4802-80dc-71b3f48f5823": {
+      "SKU": 21782,
+      "DESCRIPCIÓN": "Absolut Mandarina Vodka 700 ml"
+    },
+    "ef48a998-0841-484d-bd6b-6bb6acc3ba3f": {
+      "SKU": 21783,
+      "DESCRIPCIÓN": "Beefeater Pink Ginebra 700 ml"
+    },
+    "1bcf3fd2-0c22-4118-af02-c65c26524866": {
+      "SKU": 21784,
+      "DESCRIPCIÓN": "Olmeca Altos Plata Tequila 700 ml"
+    },
+    "5de7fb94-45be-4ba1-8900-6a5f293c13ae": {
+      "SKU": 21785,
+      "DESCRIPCIÓN": "Olmeca Altos Reposado Tequila 700 ml"
+    },
+    "a5da0730-4181-45e8-b88e-fa23aef398f9": {
+      "SKU": 21786,
+      "DESCRIPCIÓN": "Chivas Mizunara Whisky 700 ml"
+    },
+    "acf3afd8-483e-476c-8507-c1f4458539c4": {
+      "SKU": 21787,
+      "DESCRIPCIÓN": "Chivas Regal 12 Anos Whisky 1000 ml"
+    },
+    "01c42109-6395-468f-813e-83011ccde089": {
+      "SKU": 21788,
+      "DESCRIPCIÓN": "The Glenlivet 18 Whisky 700ml"
+    },
+    "177e3f12-bdac-40b9-8c24-9501212ad0d7": {
+      "SKU": 21847,
+      "DESCRIPCIÓN": "Antioqueno Aguardiente SA Verde1050mlx1"
+    },
+    "a72a6385-f83a-4b36-9c6b-2fef5048713d": {
+      "SKU": 21848,
+      "DESCRIPCIÓN": "Antioqueno Aguardiente SA Verde 1750mlx1"
+    },
+    "042c34ab-ff38-44a4-ba5f-d4b144afff8d": {
+      "SKU": 21871,
+      "DESCRIPCIÓN": "AGUILA IMPERIAL RB 330CC X30"
+    },
+    "62d88812-2c59-46b1-94f1-a725aa56d9d1": {
+      "SKU": 21892,
+      "DESCRIPCIÓN": "CLUB COLOMBIA CAFE LTA 269CC X6"
+    },
+    "b116d788-12f2-4a66-9f8f-81a422680200": {
+      "SKU": 21951,
+      "DESCRIPCIÓN": "BUDWEISER LTA 269CC X12 LN9"
+    },
+    "a227632a-4f2f-477d-84af-8b343d8cef72": {
+      "SKU": 21959,
+      "DESCRIPCIÓN": "PONY MALTA GO LESS SUGAR PET 1.5L X6"
+    },
+    "20cf8dcd-e6f6-4664-8c3d-cd9f5ece75b8": {
+      "SKU": 21970,
+      "DESCRIPCIÓN": "Smirnoff Tamarindo Picante 750mlx 1"
+    },
+    "e3d0b0a5-df90-4d6d-a457-e51332997279": {
+      "SKU": 22006,
+      "DESCRIPCIÓN": "AGUILA ORIG LTA 330CC X12 LN9"
+    },
+    "cb6b6a40-586c-42e0-a9af-05b14818ac06": {
+      "SKU": 22039,
+      "DESCRIPCIÓN": "MICHELOB ULTRA AMBAR NR 355CC X6 MX"
+    },
+    "8866477d-af63-47d7-b4d9-f79ab16c4c50": {
+      "SKU": 22047,
+      "DESCRIPCIÓN": "The Glenlivet 12 Whisky 700ml Vasos"
+    },
+    "f07b05cc-52f6-45bc-ba0b-4287a3474eda": {
+      "SKU": 22048,
+      "DESCRIPCIÓN": "La Hechicera Ron 700 ml 2 Vasos"
+    },
+    "c74a91fa-f098-4809-ab88-2bddf547141c": {
+      "SKU": 22049,
+      "DESCRIPCIÓN": "Chivas 12Años 700 ml Chivas 12Anos 200m"
+    },
+    "ee09bf8b-f4ff-49cc-8f1f-fb4768578b6f": {
+      "SKU": 22078,
+      "DESCRIPCIÓN": "Like Sixpack Blue Berry x 300ml"
+    },
+    "42762d4b-4565-4488-8f35-67c7c1faacd7": {
+      "SKU": 22102,
+      "DESCRIPCIÓN": "COSTEÑA BACANA LTA 269CC X6"
+    },
+    "793c1200-7ba8-4c8f-9f92-669c883cea92": {
+      "SKU": 22105,
+      "DESCRIPCIÓN": "19 Pack Surtido Yupi x 632g Negro"
+    },
+    "b5a1c98b-01aa-416c-ac42-4a0a58ce1eb8": {
+      "SKU": 22106,
+      "DESCRIPCIÓN": "14 Pack Surtido Yupi x 683g Azul"
+    },
+    "6ba0388e-ff16-464c-8347-dea3f0eb5373": {
+      "SKU": 22124,
+      "DESCRIPCIÓN": "BUDWEISER RB 330CC X30"
+    },
+    "e20245aa-960a-49ab-aed0-cefdeb695ea9": {
+      "SKU": 22135,
+      "DESCRIPCIÓN": "COLA & POLA LTA 269CC X6"
+    },
+    "5bfc4346-93d3-451a-a9fb-b6db9f172e7a": {
+      "SKU": 22136,
+      "DESCRIPCIÓN": "Ballantines Finest Whisky 1000ml"
+    },
+    "8651afc7-f6fb-469c-b0ee-af664f9d8491": {
+      "SKU": 22137,
+      "DESCRIPCIÓN": "Chivas 12 Whisky 1750ml"
+    },
+    "a8f1d99d-278e-4139-ac93-4b1d92b0d349": {
+      "SKU": 22138,
+      "DESCRIPCIÓN": "Havana Club 3 ano Ron 1000ml"
+    },
+    "4fd57afe-6df3-4bfd-a133-db8fdcdada48": {
+      "SKU": 22139,
+      "DESCRIPCIÓN": "Absolut Raspberry Vodka 700ml"
+    },
+    "33b7c572-4afa-491c-96fd-cb930add43ff": {
+      "SKU": 22142,
+      "DESCRIPCIÓN": "AGUILA IMPERIAL NRB 330CC X6 REEMP"
+    },
+    "ab42ae67-6781-4e46-808f-c49bc38757a9": {
+      "SKU": 22174,
+      "DESCRIPCIÓN": "Like Citrus 300ml x 6un"
+    },
+    "54c8c4a4-c791-43ec-ab33-fc0866960ba3": {
+      "SKU": 22175,
+      "DESCRIPCIÓN": "Electrolit Fruit Punch 625mlx3und"
+    },
+    "5eab798f-ac97-4225-88b8-6208e70dc2ec": {
+      "SKU": 22242,
+      "DESCRIPCIÓN": "CORONA CERO 269 LTA X6 REEMP"
+    },
+    "fa42133b-9a61-4044-abd5-91cc17f03067": {
+      "SKU": 22256,
+      "DESCRIPCIÓN": "POKER LTA 330CC X12 SHRINKPACK"
+    },
+    "6869ab7c-739a-45c5-abf0-814b42c7ecb6": {
+      "SKU": 22272,
+      "DESCRIPCIÓN": "PONY MALTA GO RB 330CC X30"
+    },
+    "c52492c9-ae02-40c9-8781-07a90563f368": {
+      "SKU": 22282,
+      "DESCRIPCIÓN": "PONY MALTA LESS SUGAR PET 200cc 5x6"
+    },
+    "e1edda42-f1c1-4ef5-a6ab-146299732e43": {
+      "SKU": 22298,
+      "DESCRIPCIÓN": "Buchanans Master 750ml x1"
+    },
+    "850bd98d-5dcc-47cb-821a-2298cd6ea5a6": {
+      "SKU": 22301,
+      "DESCRIPCIÓN": "Smirnoff Ice  Red       275ml x1"
+    },
+    "179fd5ce-a7e0-4a24-958f-16123682a756": {
+      "SKU": 22302,
+      "DESCRIPCIÓN": "Smirnoff Ice Red Lata    250ml x 1"
+    },
+    "b1da1824-7279-4222-b2f2-9815295e9c4a": {
+      "SKU": 22303,
+      "DESCRIPCIÓN": "Smirnoff Ice Green Lata 250ml x 1"
+    },
+    "eee4a865-66b9-426c-940e-08c46b3acb35": {
+      "SKU": 22410,
+      "DESCRIPCIÓN": "Quipitos Pops 8g x 24 sobres"
+    },
+    "8767fc1b-046f-4e8f-92d7-66ac74c1bd37": {
+      "SKU": 22411,
+      "DESCRIPCIÓN": "Spartan Energy 310ml x 6un"
+    },
+    "21b911e9-a0d1-4bb7-95ad-eb9d86d95a00": {
+      "SKU": 22412,
+      "DESCRIPCIÓN": "Vive 100 Regular Lata 310 ml x 6un"
+    },
+    "e35d3cde-c28e-4f1f-8ace-bd43de135a72": {
+      "SKU": 22519,
+      "DESCRIPCIÓN": "Whisky Johnnie Walker 200 ml x 1 Und"
+    },
+    "cc7724d1-4bda-4471-a066-1102376e2639": {
+      "SKU": 22523,
+      "DESCRIPCIÓN": "Whisky Black and White200mlx1"
+    },
+    "e012215b-b14b-4ae9-9113-c30f8648cb79": {
+      "SKU": 3500005,
+      "DESCRIPCIÓN": "Envase Costeñita 175R"
+    },
+    "97167e4a-cf29-436d-a4c0-689a1d8e0d8f": {
+      "SKU": 3500028,
+      "DESCRIPCIÓN": "CANASTA PLÁSTICA PLEGABLE AZUL"
+    },
+    "597af78b-a4d7-47c3-94c6-1ec40f3a2fe2": {
+      "SKU": 3500159,
+      "DESCRIPCIÓN": "Caja Plástica Café 330cc X 30"
+    },
+    "09f41a29-fec0-4cd1-ae1d-60e94c29e3e5": {
+      "SKU": 3500162,
+      "DESCRIPCIÓN": "Envase Marron 330R"
+    },
+    "e50382ec-6b03-4883-9bba-d7690b81aece": {
+      "SKU": 3500163,
+      "DESCRIPCIÓN": "Estiba Cerv Madera 1280X1080X120"
+    },
+    "ff60237c-ef82-4bd2-bd39-10d0f9a65fa0": {
+      "SKU": 3500213,
+      "DESCRIPCIÓN": "Envase Flint 330R"
+    },
+    "38e3bd4f-7c54-464c-8934-353470f977dc": {
+      "SKU": 3500231,
+      "DESCRIPCIÓN": "Caja Plástica Café 225cc X 38"
+    },
+    "1ea27016-32c5-4afc-817d-bdaf31b6a99a": {
+      "SKU": 3500373,
+      "DESCRIPCIÓN": "Envase Marron 750R"
+    },
+    "af8e8b39-bfd8-4678-a05b-f8a080e4a5a4": {
+      "SKU": 3500374,
+      "DESCRIPCIÓN": "CAJA PLASTICA MARRON 750cc x 16"
+    },
+    "18654012-a2fb-4561-8014-5bb4c6bf2997": {
+      "SKU": 3500446,
+      "DESCRIPCIÓN": "Envase Marron Club Col 330R"
+    },
+    "a1e10458-2516-4604-8dba-40ec995dcba4": {
+      "SKU": 3500887,
+      "DESCRIPCIÓN": "BOTELLA FLINT 1000R"
+    },
+    "53d7d43a-8c3d-4d2e-b78f-ae94a1648c62": {
+      "SKU": 3500888,
+      "DESCRIPCIÓN": "BOTELLA MARRON 1000CC"
+    },
+    "c65aea32-7399-4a92-94c0-9a3e8de171ac": {
+      "SKU": 3501211,
+      "DESCRIPCIÓN": "CAJA PLASTICA MARRON 1000cc x13"
+    },
+    "c85d47df-be64-4f9e-b30b-9112118acd38": {
+      "SKU": 3501224,
+      "DESCRIPCIÓN": "CAJA PLASTICA MARRON 250cc x38"
+    },
+    "07f211b3-80c5-49a5-9fe7-a46eae570530": {
+      "SKU": 3501226,
+      "DESCRIPCIÓN": "BOTELLA MARRON 250 CC"
+    },
+    "64d3bfb0-c70d-405f-941c-7d8b4b5b21c9": {
+      "SKU": 3501430,
+      "DESCRIPCIÓN": "ENVASE COSTENA BACANA 320CC R"
+    },
+    "499748fd-4f1d-43c7-9672-a7868af991ab": {
+      "SKU": 3501539,
+      "DESCRIPCIÓN": "BOTELLA MARRON 850 ML R"
+    },
+    "93135bcc-007f-4c48-b4c3-e1c21aee2623": {
+      "SKU": 3500024,
+      "DESCRIPCIÓN": "CILINDRO CO2 20 kg"
+    },
+    "b18cc0d7-1012-41a4-b3bd-18660d46d205": {
+      "SKU": 3500207,
+      "DESCRIPCIÓN": "BOTELLA MARRON 225R"
+    },
+    "48877d82-e51e-427d-93c3-ef7309950a01": {
+      "SKU": 3500383,
+      "DESCRIPCIÓN": "Envase Flint 750R"
+    },
+    "fc8e3472-60cb-4078-a931-d1fdfdff36c2": {
+      "SKU": 3500472,
+      "DESCRIPCIÓN": "Envase Flint 175R"
+    },
+    "fd3e757f-69fb-4dea-858d-ef774fc246f7": {
+      "SKU": 3501225,
+      "DESCRIPCIÓN": "BOTELLA FLINT 250 CC"
+    },
+    "9aa0eb6a-c16d-4f72-8025-6adde0bd2b91": {
+      "SKU": 3503016,
+      "DESCRIPCIÓN": "ENVASE MARRON BUDWEISER 250cc R"
+    },
+    "bd044286-0e6e-47c0-a566-e6c46f74a5e6": {
+      "SKU": 3503485,
+      "DESCRIPCIÓN": "ENV REUSA NORTE FLINT 210 CORONITA"
+    },
+    "0169b815-0c35-4b54-846b-254000416f00": {
+      "SKU": 3503486,
+      "DESCRIPCIÓN": "ENV REUSA NORTE FLINT 330 CORONA"
+    },
+    "97a13be2-4578-4139-a92b-0d1f27d20a08": {
+      "SKU": 400512,
+      "DESCRIPCIÓN": "PLASTICO STRECH CALIBRE 0.6 MILS"
+    },
+    "8e466f95-aea5-412c-b0fb-67dbbaf05b4a": {
+      "SKU": 2489249,
+      "DESCRIPCIÓN": "ENTREGA PREFERENTE"
+    },
+    "5ff379ea-82e7-4100-8aab-13c904e1831f": {
+      "SKU": 3500383,
+      "DESCRIPCIÓN": "Envase Flint 750R"
+    },
+    "dfa4b5dd-3fc0-4241-8391-e2e8ac75ce80": {
+      "SKU": 3500446,
+      "DESCRIPCIÓN": "Envase Marron Club Col 330R"
+    },
+    "95e3c602-4bd5-465c-bcf3-32ac2a5bbda4": {
+      "SKU": 3500472,
+      "DESCRIPCIÓN": "Envase Flint 175R"
+    },
+    "389fd84c-9600-4e4b-88cf-9fac4ca8dd8b": {
+      "SKU": 3500887,
+      "DESCRIPCIÓN": "BOTELLA FLINT 1000R"
+    },
+    "5d3ba361-8023-4332-ade5-b0e48facc0a4": {
+      "SKU": 3500888,
+      "DESCRIPCIÓN": "BOTELLA MARRON 1000CC"
+    },
+    "73b57316-bb51-4d0a-a3b1-e90144d2db94": {
+      "SKU": 3501211,
+      "DESCRIPCIÓN": "CAJA PLASTICA MARRON 1000cc x13"
+    },
+    "ae2f6cd2-d26e-452b-8b8a-410c43b5a23b": {
+      "SKU": 3501224,
+      "DESCRIPCIÓN": "CAJA PLASTICA MARRON 250cc x38"
+    },
+    "e0f91bef-360b-4de8-b22e-5bf2efbc1e9c": {
+      "SKU": 3501225,
+      "DESCRIPCIÓN": "BOTELLA FLINT 250 CC"
+    },
+    "63d492d4-48ee-4437-bd4e-61044b4f0909": {
+      "SKU": 3501226,
+      "DESCRIPCIÓN": "BOTELLA MARRON 250 CC"
+    },
+    "30b8b13d-79c1-407c-9cf7-1ffbc75f5b13": {
+      "SKU": 3501430,
+      "DESCRIPCIÓN": "ENVASE COSTENA BACANA 320CC R"
+    },
+    "426bc40d-faeb-4163-a363-e130da9138ed": {
+      "SKU": 3501539,
+      "DESCRIPCIÓN": "BOTELLA MARRON 850 ML R"
+    },
+    "c52d4baa-a757-4f4d-b882-60acc3edcc07": {
+      "SKU": 3503016,
+      "DESCRIPCIÓN": "ENVASE MARRON BUDWEISER 250cc R"
+    },
+    "00dcf0c3-169c-4c23-a7f2-6b4bb92b4a2d": {
+      "SKU": 3503485,
+      "DESCRIPCIÓN": "ENV REUSA NORTE FLINT 210 CORONITA"
+    },
+    "dd4f77b6-f840-4f74-ac76-b16eedf7422c": {
+      "SKU": 3503486,
+      "DESCRIPCIÓN": "ENV REUSA NORTE FLINT 330 CORONA"
+    },
+    "1e2aaabf-dff1-4f42-85d9-7979d20304b1": {
+      "SKU": 400512,
+      "DESCRIPCIÓN": "PLASTICO STRECH CALIBRE 0.6 MILS"
+    },
+    "55e085a9-94da-4854-b679-1a218e428fbd": {
+      "SKU": 2160,
+      "DESCRIPCIÓN": "Aguila Lig R 330cc X 30"
+    },
+    "66981afa-1e07-425e-a406-c4db37b777eb": {
+      "SKU": 3128,
+      "DESCRIPCIÓN": "Aguila RN 330cc X 30"
+    },
+    "7b018322-3d03-41ce-b684-dc7e63eeabbb": {
+      "SKU": 9508,
+      "DESCRIPCIÓN": "Coronita NR 210cc X 6"
+    },
+    "c260b4c8-2810-45e6-9adf-329ad18243b3": {
+      "SKU": 9672,
+      "DESCRIPCIÓN": "Budweiser Lta 269ccX6 TERMO."
+    },
+    "d9007f26-0429-41fa-a575-5644ee0c2b16": {
+      "SKU": 17154,
+      "DESCRIPCIÓN": "CORONA EXTRA 269 LTA X24 REM"
+    },
+    "53aa2d7a-65b4-4c84-bd94-5b69d130acb6": {
+      "SKU": 21173,
+      "DESCRIPCIÓN": "PONY MALTA LESS SUGAR PET 1000CC X15"
+    },
+    "78bbc3db-a9b4-4155-8167-bc4b9f28c9cf": {
+      "SKU": 21703,
+      "DESCRIPCIÓN": "PONY MALTA GO PET 2.0L X6"
+    },
+    "3713abee-ce36-42bb-b2d7-6da1f9ac96bc": {
+      "SKU": 3500159,
+      "DESCRIPCIÓN": "Caja Plástica Café 330cc X 30"
+    },
+    "fb50f8c4-a4c2-431d-beb1-bc12f6fbd2e0": {
+      "SKU": 3500162,
+      "DESCRIPCIÓN": "Envase Marron 330R"
+    },
+    "e77e43bc-a6ed-415a-a4cc-f909d1e5725b": {
+      "SKU": 3500163,
+      "DESCRIPCIÓN": "Estiba Cerv Madera 1280X1080X120"
+    },
+    "80ff0d87-4f6e-40b5-8fb0-f3f8ea9e330f": {
+      "SKU": 3500213,
+      "DESCRIPCIÓN": "Envase Flint 330R"
+    },
+    "0d5cc6a2-151e-4df2-877b-d72e173be2e2": {
+      "SKU": 3500231,
+      "DESCRIPCIÓN": "Caja Plástica Café 225cc X 38"
+    },
+    "931a9528-8ea3-4cf1-a3c0-b7e88beec7c9": {
+      "SKU": 3500374,
+      "DESCRIPCIÓN": "CAJA PLASTICA MARRON 750cc x 16"
+    },
+    "6636b74b-d908-42ed-bdc6-d0d0563cc4f1": {
+      "SKU": 1413,
+      "DESCRIPCIÓN": "Costeña Lta 330cc X 6"
+    },
+    "535baf94-668f-439b-b7b9-b14e5112a737": {
+      "SKU": 1428,
+      "DESCRIPCIÓN": "Poker Lta 330cc X 6"
+    },
+    "bf62fc08-f0fd-4283-911c-58b4233580bc": {
+      "SKU": 2160,
+      "DESCRIPCIÓN": "Aguila Lig R 330cc X 30"
+    },
+    "0ec7576d-8b7a-41bb-bbbe-456add61a09f": {
+      "SKU": 2171,
+      "DESCRIPCIÓN": "Aguila Lig Lta 330ccX6"
+    },
+    "ac5eafd2-edcd-45b3-aa91-2ec1b1f3a39d": {
+      "SKU": 2174,
+      "DESCRIPCIÓN": "Aguila Lta 330cc X 6"
+    },
+    "e5035d7c-f5c6-4730-858d-43fd0f9c1e7c": {
+      "SKU": 2182,
+      "DESCRIPCIÓN": "Pony Malta R 330cc X 30"
+    },
+    "83e366c3-6faa-4703-bfbf-15bb31457317": {
+      "SKU": 2222,
+      "DESCRIPCIÓN": "Pony Malta Pet 330cc X 24"
+    },
+    "0c3f9312-549f-467b-af73-0a885fe0d2c7": {
+      "SKU": 2223,
+      "DESCRIPCIÓN": "Pony Malta Pet 330cc X 6"
+    },
+    "0e9a124c-d76c-419f-90a3-303289e932f0": {
+      "SKU": 2224,
+      "DESCRIPCIÓN": "Pony Malta Pet 1.5LX 6"
+    },
+    "6ce5c20a-6277-4dda-9a1c-9780b3a8a0c1": {
+      "SKU": 2511,
+      "DESCRIPCIÓN": "Cola&Pola RN 330cc X 30"
+    },
+    "d75b9d58-1f13-47a6-a232-2bdeead48af9": {
+      "SKU": 2512,
+      "DESCRIPCIÓN": "Poker R 330cc X 30"
+    },
+    "6ac91ab1-29fd-4d79-9f81-757a8bbaa1ff": {
+      "SKU": 2759,
+      "DESCRIPCIÓN": "Pony Malta Pet 200cc X 6"
+    },
+    "b4042776-7cd7-4e75-800b-521e2f2b584e": {
+      "SKU": 2882,
+      "DESCRIPCIÓN": "Cola&Pola Pet 1.5L X 6"
+    },
+    "3e35f10e-90da-4a88-8187-916855d963a6": {
+      "SKU": 2976,
+      "DESCRIPCIÓN": "Cola&Pola Lta 330cc X 6"
+    },
+    "8cf221e2-5e37-4464-8d15-bb14782ef5fe": {
+      "SKU": 3128,
+      "DESCRIPCIÓN": "Aguila RN 330cc X 30"
+    },
+    "9196fef1-9f8e-442a-a3f6-c8ffe560a889": {
+      "SKU": 3228,
+      "DESCRIPCIÓN": "Redds Cold Lta 269ccX6"
+    },
+    "58f32366-a8e0-4132-9567-dee90712a6e1": {
+      "SKU": 3617,
+      "DESCRIPCIÓN": "Costeñita R 175cc X 38"
+    },
+    "09f287e0-ce12-41a2-9f6a-ab671a47cc23": {
+      "SKU": 3751,
+      "DESCRIPCIÓN": "Club Col R 330cc X 30 N"
+    },
+    "ca8cc5cd-80c7-4f65-a3b4-6f64dedc0a0a": {
+      "SKU": 3787,
+      "DESCRIPCIÓN": "Club Col TW 330ccX6 N"
+    },
+    "98ee4983-741f-4ff6-a0b2-55763f272d16": {
+      "SKU": 3810,
+      "DESCRIPCIÓN": "Pony Malta Pet 200ccX30"
+    },
+    "caed28f7-52f5-4bba-878d-8019281fb48a": {
+      "SKU": 5252,
+      "DESCRIPCIÓN": "Club Col Lta 330X6 N"
+    },
+    "f6f02158-137f-4fe6-836e-5315ef6b4389": {
+      "SKU": 5257,
+      "DESCRIPCIÓN": "Club Col NG Lta 330ccX6 N"
+    },
+    "708875f5-733b-402c-b1e8-458633cdfac0": {
+      "SKU": 7078,
+      "DESCRIPCIÓN": "Pony Malta Pet 1.0L X 15"
+    },
+    "aabf1e69-2069-4016-ba21-665d3b0bb77f": {
+      "SKU": 7584,
+      "DESCRIPCIÓN": "Aguila Lig Lta 269cc X 6."
+    },
+    "ff41b5c3-3cc9-43ef-a07e-eccdb0b9aeb7": {
+      "SKU": 7596,
+      "DESCRIPCIÓN": "BBC Lager Nr330ccX6"
+    },
+    "830f6a55-eb0c-466b-9b87-840fcb2dfdd5": {
+      "SKU": 7605,
+      "DESCRIPCIÓN": "BBC Monserrate Rj Nr330ccX4"
+    },
+    "1e81aaae-8ad5-4019-a2cf-a8af1c0d76fe": {
+      "SKU": 7991,
+      "DESCRIPCIÓN": "Budweiser Nr 250ccX24"
+    },
+    "25feaa13-7850-4c9d-9c27-237002fd4139": {
+      "SKU": 7993,
+      "DESCRIPCIÓN": "Budweiser Lta CO 269ccX24."
+    },
+    "4545bc18-89f4-4e30-b8eb-9bac321066e1": {
+      "SKU": 8042,
+      "DESCRIPCIÓN": "Budweiser Nr 250ccX6"
+    },
+    "af99fc4c-a8b2-409f-b725-5635b3256f09": {
+      "SKU": 8532,
+      "DESCRIPCIÓN": "Club Col Lata 269cc X 6"
+    },
+    "3d36fb1f-9b6a-4a56-9d31-ca52311ceb16": {
+      "SKU": 8878,
+      "DESCRIPCIÓN": "Malta Leona Pet 400cc x 6"
+    },
+    "cbbdc728-01c5-4510-b8bd-2162b0b2cd2f": {
+      "SKU": 9480,
+      "DESCRIPCIÓN": "POKER RN 1000cc X 13"
+    },
+    "130fd2f0-626b-42ec-808b-8bb94737931e": {
+      "SKU": 9482,
+      "DESCRIPCIÓN": "Aguila Lig RN 1000cc X 13"
+    },
+    "dc4c1a60-d12a-4872-9c54-5a2edde9b145": {
+      "SKU": 9494,
+      "DESCRIPCIÓN": "AGUILA RN 1000cc X 13"
+    },
+    "30a63dea-763c-4444-b919-fb48f891d806": {
+      "SKU": 9508,
+      "DESCRIPCIÓN": "Coronita NR 210cc X 6"
+    },
+    "d4dbd3a0-fa41-43c4-ab80-1f162ac06e2e": {
+      "SKU": 9672,
+      "DESCRIPCIÓN": "Budweiser Lta 269ccX6 TERMO."
+    },
+    "460edf2a-9e69-4d00-be40-c31448b17b81": {
+      "SKU": 9856,
+      "DESCRIPCIÓN": "Aguila TW 330cc X 24 MANUAL"
+    },
+    "be6e0852-3781-4992-b407-a1dd114d63e8": {
+      "SKU": 9909,
+      "DESCRIPCIÓN": "AGUILA LTA 269CC X 6."
+    },
+    "cd568451-a372-458e-b915-a1083e4cb7bf": {
+      "SKU": 11969,
+      "DESCRIPCIÓN": "Pony Malta Pet 2.0L X6"
+    },
+    "c1c0b996-e659-4dfa-8f71-a9631f9b2695": {
+      "SKU": 12026,
+      "DESCRIPCIÓN": "Agua Zalva Sin Gas Pet 600 X 12"
+    },
+    "97499f82-63b7-4aac-9a63-372767e6bd43": {
+      "SKU": 12283,
+      "DESCRIPCIÓN": "BBC CAJICA MIEL LTA 269X4."
+    },
+    "bd9fd778-ee19-4687-a6b4-c1262a5c38a0": {
+      "SKU": 13451,
+      "DESCRIPCIÓN": "COSTENA BACANA BR 320CCX30"
+    },
+    "35d0a351-4055-45d7-9108-972d6d032c62": {
+      "SKU": 14703,
+      "DESCRIPCIÓN": "AGUILA 0.0 LTA 330CCX6"
+    },
+    "81d29a7d-e938-451f-8aea-36cb60344c0a": {
+      "SKU": 14709,
+      "DESCRIPCIÓN": "COSTENA BACANA LATA 330CCX6"
+    },
+    "2445ca0a-14f9-4750-ba15-6eee41ab4054": {
+      "SKU": 15007,
+      "DESCRIPCIÓN": "Nativa BR 330x30 Norte"
+    },
+    "9859eed7-7adc-4275-9d58-8ff201267d95": {
+      "SKU": 15153,
+      "DESCRIPCIÓN": "Something Special Whisky 750ML"
+    },
+    "ce752ead-23aa-49b3-ac12-f3544e80bb60": {
+      "SKU": 15381,
+      "DESCRIPCIÓN": "Smirnoff Vodka Lulo 750 ml"
+    },
+    "8fe5b71c-f52f-45fb-82c0-f416dcaecbf9": {
+      "SKU": 15554,
+      "DESCRIPCIÓN": "Antioqueño Aguardiente SA Verde 750 ml"
+    },
+    "730d39a5-55ca-4cf9-9e62-3bf8334ffc18": {
+      "SKU": 15555,
+      "DESCRIPCIÓN": "Antioqueño Aguardiente SA Verde 375 ml"
+    },
+    "f32c2c30-a4b0-4143-9a87-5026033a1e65": {
+      "SKU": 16090,
+      "DESCRIPCIÓN": "ANTIOQUEÑO Aguard SinAz 375ml"
+    },
+    "cf7f3d83-c633-4fd4-af66-f8ba16a27a2f": {
+      "SKU": 16093,
+      "DESCRIPCIÓN": "JOHNNIE WALKER RED LABEL Whisky 375 ml"
+    },
+    "e793651b-60e1-453f-bee3-478adb28d5ca": {
+      "SKU": 16094,
+      "DESCRIPCIÓN": "BLACK & WHITE Whisky 700 ml"
+    },
+    "050c78fa-5115-4539-b6c3-3c82c5407e51": {
+      "SKU": 16097,
+      "DESCRIPCIÓN": "ANTIOQUEÑO Aguard SinAz 750ml"
+    },
+    "9aff27fc-eef4-459a-9fa0-cc60849e4450": {
+      "SKU": 16100,
+      "DESCRIPCIÓN": "OLD PARR Whisky 750ml"
+    },
+    "8f312319-54d3-4ca0-98a5-1fc83e00c117": {
+      "SKU": 16151,
+      "DESCRIPCIÓN": "ChocoKrispis Sachet 30g x 8UN"
+    },
+    "fd7f065c-0ac5-4fe3-ba7c-0f7ee64d5822": {
+      "SKU": 16153,
+      "DESCRIPCIÓN": "FrootLoops Sachet 25gx 8UN"
+    },
+    "36804c97-7984-4784-ab94-93a54d81c9fb": {
+      "SKU": 16210,
+      "DESCRIPCIÓN": "PONY MALTA LTA 330CCX 6 NUEVO"
+    },
+    "112b0043-68d8-4724-920b-f934256f1ad4": {
+      "SKU": 16466,
+      "DESCRIPCIÓN": "AUSTEN LTA 330CC X6"
+    },
+    "6215cafd-1f7b-4fba-b968-6cf922adf0ad": {
+      "SKU": 16921,
+      "DESCRIPCIÓN": "Smirnoff Lulo Vodka tetrapack 1L"
+    },
+    "c2be7bf2-932f-44d0-b0ec-ee7012b54699": {
+      "SKU": 17155,
+      "DESCRIPCIÓN": "CORONA EXTRA 269 LTA X6 REM"
+    },
+    "a6245213-bd47-48bd-953d-256304c1fd9d": {
+      "SKU": 17159,
+      "DESCRIPCIÓN": "SAVILOE 320ML X 6UN"
+    },
+    "c28e2a0f-3a16-4504-aaea-ff3cf9007104": {
+      "SKU": 17160,
+      "DESCRIPCIÓN": "VIVE 100 240MLX6UN"
+    },
+    "de264abf-b7bb-42e3-9855-305d3b9dd596": {
+      "SKU": 17163,
+      "DESCRIPCIÓN": "VIVE 100 REGULAR 380ML X6UN"
+    },
+    "5125bef5-d5f2-4607-9373-cad6444d664a": {
+      "SKU": 17756,
+      "DESCRIPCIÓN": "Hit Jugo Frutas Tropical Pet 500ml x12un"
+    },
+    "ded68c2c-704e-4eb1-88ed-d290e01e7b59": {
+      "SKU": 18274,
+      "DESCRIPCIÓN": "Passport Whisky 200 ml"
+    },
+    "d4570235-f10f-42cf-8296-a1e5dac21289": {
+      "SKU": 18473,
+      "DESCRIPCIÓN": "Vasos Plasticos 7oz x 50 un"
+    },
+    "2e6dc9c4-9b2f-4106-a59a-ad16ac081b84": {
+      "SKU": 19047,
+      "DESCRIPCIÓN": "Yupis Salado 12g x 12un"
+    },
+    "3ccf260e-cb21-4d3b-aa78-9fc45c3ec96d": {
+      "SKU": 19126,
+      "DESCRIPCIÓN": "Something Special Whisky 200 ml"
+    },
+    "dad8282e-f691-4896-aa33-c562a51a26ba": {
+      "SKU": 19130,
+      "DESCRIPCIÓN": "Ballantines Whisky 200 ml"
+    },
+    "5cf5644e-bf65-469f-838d-ee0a45edeb69": {
+      "SKU": 20050,
+      "DESCRIPCIÓN": "CORONA NRB 330CC X6"
+    },
+    "27b3661e-3971-403a-94db-e90101fa54c4": {
+      "SKU": 20284,
+      "DESCRIPCIÓN": "Papas Clasicas Limon Pimienta 36g x 8 un"
+    },
+    "745ebcfe-180c-4535-b442-b4eaae58c15d": {
+      "SKU": 20463,
+      "DESCRIPCIÓN": "STELLA ARTOIS NRB 300CC X6"
+    },
+    "9f975444-a9ae-4964-bd8d-bc04f3417bb4": {
+      "SKU": 20469,
+      "DESCRIPCIÓN": "STELLA ARTOIS LTA 269CC X6"
+    },
+    "892fa82e-c59e-411c-876c-c50da46335ab": {
+      "SKU": 20546,
+      "DESCRIPCIÓN": "AGUILA ORIGINAL RB 250CC X38"
+    },
+    "aa86c94b-9d31-494f-baab-6f31dab722b3": {
+      "SKU": 20668,
+      "DESCRIPCIÓN": "AGUILA LTA 330CC X6 LOOSE PACK LN9"
+    },
+    "98a7aa62-eb20-4b91-86e6-f575cee1218e": {
+      "SKU": 20867,
+      "DESCRIPCIÓN": "COSTEÑA RB 330CC X30"
+    },
+    "833d8047-acc1-40a9-a968-0c454e52e0dc": {
+      "SKU": 20877,
+      "DESCRIPCIÓN": "COSTEÑA RB 750CC X16"
+    },
+    "1ce012de-81dd-4105-8664-3ae26f8e3a98": {
+      "SKU": 21146,
+      "DESCRIPCIÓN": "CLUB COLOMBIA LTA 473CC X6"
+    },
+    "a54a00e6-4796-4a3f-9d51-82e3577d50f2": {
+      "SKU": 21156,
+      "DESCRIPCIÓN": "CLUB COLOMBIA TRIGO RB 330CC X30"
+    },
+    "38657d50-93b7-45d3-abc5-d6772fc8e614": {
+      "SKU": 21159,
+      "DESCRIPCIÓN": "BBC ROSE LATA 269CC X4"
+    },
+    "0f1f7648-f6b7-40ee-942c-0eb599b1ee56": {
+      "SKU": 21161,
+      "DESCRIPCIÓN": "BBC ROSE NR BOT 330CC X4"
+    },
+    "06a0b887-a547-4477-a17b-6d8fde3f3806": {
+      "SKU": 21173,
+      "DESCRIPCIÓN": "PONY MALTA LESS SUGAR PET 1000CC X15"
+    },
+    "fcc8f62f-da33-43f2-b555-f17ab9ac3942": {
+      "SKU": 21177,
+      "DESCRIPCIÓN": "MODELO ESPECIAL NRB 355CC X6 IMPO"
+    },
+    "dd043a4e-1cd3-408f-b967-39aee219e4d9": {
+      "SKU": 21189,
+      "DESCRIPCIÓN": "MICHELOB ULTRA LATA 269CC X6 PL"
+    },
+    "46177051-04dc-41ea-a3a7-a5244e7f1f0c": {
+      "SKU": 21255,
+      "DESCRIPCIÓN": "CORONA CERO NRB 330CC X6"
+    },
+    "c695eaec-b866-4e4a-9162-47d89d48e68e": {
+      "SKU": 21429,
+      "DESCRIPCIÓN": "Electrolit Fresa 625mlx3und"
+    },
+    "d03c6244-95c6-48d3-82c0-42d6976cf2ac": {
+      "SKU": 21431,
+      "DESCRIPCIÓN": "Electrolit Jamaica 625mlx3und"
+    },
+    "150d8a11-c400-4067-9a68-6b0e5a914dce": {
+      "SKU": 21447,
+      "DESCRIPCIÓN": "PONY MALTA LESS SUGAR PET 200CC X6"
+    },
+    "ab3e2317-a5fc-4843-8fc2-09be8397889c": {
+      "SKU": 21454,
+      "DESCRIPCIÓN": "Like Sixpack x 300 ml Apple"
+    },
+    "12ab8d8f-34a5-489f-962c-66a1b19bcad7": {
+      "SKU": 21581,
+      "DESCRIPCIÓN": "Rizadas Mayonesa 36g x 8un"
+    },
+    "635e58c5-c7da-4a76-a09d-a9208646ad14": {
+      "SKU": 21582,
+      "DESCRIPCIÓN": "Golpe con todo BBQ 50g x 8un"
+    },
+    "f6eb32bb-f2bb-49a4-96d4-c593c7c511bd": {
+      "SKU": 21606,
+      "DESCRIPCIÓN": "La Hechicera Ron 50 ml"
+    },
+    "ff2455e4-1c67-4bbe-adeb-49a14f9f8b6a": {
+      "SKU": 21615,
+      "DESCRIPCIÓN": "Havana Club Ron 3 anos 700 ml"
+    },
+    "181f7bf7-d60f-484b-b5b3-5d429f1222f7": {
+      "SKU": 21625,
+      "DESCRIPCIÓN": "Red Bull Energy 250ml x 4un"
+    },
+    "cab45f73-2dc3-4d9c-abee-c308d81885c6": {
+      "SKU": 21661,
+      "DESCRIPCIÓN": "Electrolit Uva 625mlx3und"
+    },
+    "9e655a53-f25a-49ea-95a7-07d53c166cfd": {
+      "SKU": 21662,
+      "DESCRIPCIÓN": "Electrolit Maracuya 625mlx3und"
+    },
+    "39f8bb85-8b8e-45f2-8c4a-f40b93be6fcc": {
+      "SKU": 21663,
+      "DESCRIPCIÓN": "Electrolit Mora Azul 625mlx3und"
+    },
+    "c3c75540-7b8b-4bb6-a69b-60fc82d64f4b": {
+      "SKU": 21664,
+      "DESCRIPCIÓN": "Electrolit Fresa Kiwi 625mlx3und"
+    },
+    "ab6e9c92-f1d4-4e33-a2ea-0c7121c9a642": {
+      "SKU": 21703,
+      "DESCRIPCIÓN": "PONY MALTA GO PET 2.0L X6"
+    },
+    "9a3cefbc-8b12-4357-8ed5-b029ae6813ed": {
+      "SKU": 21730,
+      "DESCRIPCIÓN": "REDDS ROSE LTA 269CC X6"
+    },
+    "77255b36-41b6-4752-b311-0d2fbf198dcb": {
+      "SKU": 21847,
+      "DESCRIPCIÓN": "Antioqueno Aguardiente SA Verde1050mlx1"
+    },
+    "29205fab-11b8-4bcc-8521-94e60b13403c": {
+      "SKU": 21848,
+      "DESCRIPCIÓN": "Antioqueno Aguardiente SA Verde 1750mlx1"
+    },
+    "9523730b-4db1-496c-b011-0e3d189d2b18": {
+      "SKU": 21871,
+      "DESCRIPCIÓN": "AGUILA IMPERIAL RB 330CC X30"
+    },
+    "bd8e9104-dd00-44a4-8b07-883bf0d54dec": {
+      "SKU": 21892,
+      "DESCRIPCIÓN": "CLUB COLOMBIA CAFE LTA 269CC X6"
+    },
+    "7a694184-bf56-4dea-b11b-f3ceca818625": {
+      "SKU": 21951,
+      "DESCRIPCIÓN": "BUDWEISER LTA 269CC X12 LN9"
+    },
+    "57a8c371-3723-47b0-a246-86e5afe70342": {
+      "SKU": 21959,
+      "DESCRIPCIÓN": "PONY MALTA GO LESS SUGAR PET 1.5L X6"
+    },
+    "aebe7194-712f-4a21-9b35-f535a18e2aae": {
+      "SKU": 21970,
+      "DESCRIPCIÓN": "Smirnoff Tamarindo Picante 750mlx 1"
+    },
+    "63007481-d26e-46d0-825a-c9370bf18a61": {
+      "SKU": 22006,
+      "DESCRIPCIÓN": "AGUILA ORIG LTA 330CC X12 LN9"
+    },
+    "a87c19af-b946-42cb-a539-c8add53734e7": {
+      "SKU": 22078,
+      "DESCRIPCIÓN": "Like Sixpack Blue Berry x 300ml"
+    },
+    "ab1904d7-f949-48ea-8920-4e64a8ae92da": {
+      "SKU": 22102,
+      "DESCRIPCIÓN": "COSTEÑA BACANA LTA 269CC X6"
+    },
+    "ad1fd788-1bd3-4433-91a5-bcc9aa7b5f55": {
+      "SKU": 22105,
+      "DESCRIPCIÓN": "19 Pack Surtido Yupi x 632g Negro"
+    },
+    "a4382cab-0e42-48d7-b1f5-276eb1a56ad1": {
+      "SKU": 22106,
+      "DESCRIPCIÓN": "14 Pack Surtido Yupi x 683g Azul"
+    },
+    "1a75f29c-fd85-47ad-bf14-b0065da7fe82": {
+      "SKU": 22124,
+      "DESCRIPCIÓN": "BUDWEISER RB 330CC X30"
+    },
+    "e059d3d0-2f94-4b0a-a0d5-fa8e7642a7a4": {
+      "SKU": 22135,
+      "DESCRIPCIÓN": "COLA & POLA LTA 269CC X6"
+    },
+    "8757ff65-29a9-4623-8113-540e1868a3e6": {
+      "SKU": 22142,
+      "DESCRIPCIÓN": "AGUILA IMPERIAL NRB 330CC X6 REEMP"
+    },
+    "09898514-3c7c-4038-a031-2531b46217e8": {
+      "SKU": 22174,
+      "DESCRIPCIÓN": "Like Citrus 300ml x 6un"
+    },
+    "45bd78d7-df60-4a0d-89e7-01b8f96e0c73": {
+      "SKU": 22175,
+      "DESCRIPCIÓN": "Electrolit Fruit Punch 625mlx3und"
+    },
+    "6c2e80cc-5fe4-4333-ba7b-09acc085bf6e": {
+      "SKU": 22242,
+      "DESCRIPCIÓN": "CORONA CERO 269 LTA X6 REEMP"
+    },
+    "3b7cbb12-e473-489c-9adc-04d606e2a82c": {
+      "SKU": 22272,
+      "DESCRIPCIÓN": "PONY MALTA GO RB 330CC X30"
+    },
+    "7d094566-19f5-47f1-85e3-7742d9f47f6e": {
+      "SKU": 22282,
+      "DESCRIPCIÓN": "PONY MALTA LESS SUGAR PET 200cc 5x6"
+    },
+    "e66a4314-a312-4fab-9c87-482275b8eab6": {
+      "SKU": 22301,
+      "DESCRIPCIÓN": "Smirnoff Ice Red 275ml x1"
+    },
+    "3a6ed955-1fd5-4735-837d-283675ff38c5": {
+      "SKU": 22410,
+      "DESCRIPCIÓN": "Quipitos Pops 8g x 24 sobres"
+    },
+    "0911a40c-2a9b-47cd-969a-894d83853e1c": {
+      "SKU": 22411,
+      "DESCRIPCIÓN": "Spartan Energy 310ml x 6un"
+    },
+    "fcb97cd8-c69e-429d-820d-9397410c50a9": {
+      "SKU": 22412,
+      "DESCRIPCIÓN": "Vive 100 Regular Lata 310 ml x 6un"
+    },
+    "90c7c925-8ffb-437f-9304-462d60490325": {
+      "SKU": 22523,
+      "DESCRIPCIÓN": "Whisky Black and White200mlx1"
+    },
+    "5a176325-3620-4b46-a082-d80d3dd98137": {
+      "SKU": 2489249,
+      "DESCRIPCIÓN": "ENTREGA PREFERENTE"
+    },
+    "52257b77-b2ee-4247-a6a0-a6b989b0ac5e": {
+      "SKU": 3500028,
+      "DESCRIPCIÓN": "CANASTA PLÁSTICA PLEGABLE AZUL"
+    },
+    "b9da7e1b-ca40-4e05-80e6-a055a1eeac39": {
+      "SKU": 3500163,
+      "DESCRIPCIÓN": "Estiba Cerv Madera 1280X1080X120"
+    },
+    "0fbc9274-e068-40a4-b770-758a8b599763": {
+      "SKU": 1428,
+      "DESCRIPCIÓN": "Poker Lta 330cc X 6"
+    },
+    "6372a0a9-8a0d-4125-a639-7ca9741cbdb7": {
+      "SKU": 2171,
+      "DESCRIPCIÓN": "Aguila Lig Lta 330ccX6"
+    },
+    "99a6d883-b89b-481b-ac23-d86b95ddb10c": {
+      "SKU": 2174,
+      "DESCRIPCIÓN": "Aguila Lta 330cc X 6"
+    },
+    "470f3bd3-8d2d-4062-84d1-53ec10654579": {
+      "SKU": 2182,
+      "DESCRIPCIÓN": "Pony Malta R 330cc X 30"
+    },
+    "a59b06fd-5b0f-41cc-a7dc-7cb87799c56f": {
+      "SKU": 2222,
+      "DESCRIPCIÓN": "Pony Malta Pet 330cc X 24"
+    },
+    "58874540-da63-4fcb-bd1d-6fa7bdc48aa6": {
+      "SKU": 2223,
+      "DESCRIPCIÓN": "Pony Malta Pet 330cc X 6"
+    },
+    "c151c96f-9cf2-4b5c-9bf9-9ea8d9706107": {
+      "SKU": 2224,
+      "DESCRIPCIÓN": "Pony Malta Pet 1.5LX 6"
+    },
+    "27557b0b-6ed6-4a92-bd6a-2540f46fa9ae": {
+      "SKU": 2512,
+      "DESCRIPCIÓN": "Poker R 330cc X 30"
+    },
+    "b8855895-6ea3-4c6e-9bfd-4f76e217b57e": {
+      "SKU": 2759,
+      "DESCRIPCIÓN": "Pony Malta Pet 200cc X 6"
+    },
+    "e5688f00-c40b-4bd8-be33-ca87531ef4e4": {
+      "SKU": 2882,
+      "DESCRIPCIÓN": "Cola&Pola Pet 1.5L X 6"
+    },
+    "18702a78-d38a-4c45-89c9-57883d5f389b": {
+      "SKU": 2976,
+      "DESCRIPCIÓN": "Cola&Pola Lta 330cc X 6"
+    },
+    "9bf32154-46ac-4c1f-9bd8-f44fd8b08566": {
+      "SKU": 3128,
+      "DESCRIPCIÓN": "Aguila RN 330cc X 30"
+    },
+    "ff29c79f-629d-4d0c-86f2-b527012e6ad7": {
+      "SKU": 3228,
+      "DESCRIPCIÓN": "Redds Cold Lta 269ccX6"
+    },
+    "6fcafbd5-89d2-4e9c-8da7-0e92c2b43d94": {
+      "SKU": 3617,
+      "DESCRIPCIÓN": "Costeñita R 175cc X 38"
+    },
+    "23904ff2-af8f-4216-b7ec-429862b27d0e": {
+      "SKU": 3751,
+      "DESCRIPCIÓN": "Club Col R 330cc X 30 N"
+    },
+    "7b1dc49f-ee7e-4c29-b85a-3ec3345fcae7": {
+      "SKU": 5252,
+      "DESCRIPCIÓN": "Club Col Lta 330X6 N"
+    },
+    "9b0caf58-d55a-4e33-b908-ac08cec69dfe": {
+      "SKU": 5255,
+      "DESCRIPCIÓN": "Club Col RJ Lta 330X6 N"
+    },
+    "68a9ba21-e23e-49bb-a6cd-1d1ac65ab465": {
+      "SKU": 5257,
+      "DESCRIPCIÓN": "Club Col NG Lta 330ccX6 N"
+    },
+    "cd5cd4fe-4394-4423-bfde-f34c8aff96b1": {
+      "SKU": 7078,
+      "DESCRIPCIÓN": "Pony Malta Pet 1.0L X 15"
+    },
+    "74fcee36-cd23-44be-839d-ba7ca6f4a222": {
+      "SKU": 7584,
+      "DESCRIPCIÓN": "Aguila Lig Lta 269cc X 6."
+    },
+    "7c247ffe-3bd5-43b7-a342-a5ca5db8f29c": {
+      "SKU": 7596,
+      "DESCRIPCIÓN": "BBC Lager Nr330ccX6"
+    },
+    "17ee9c41-0616-4b59-a784-8e4e7dce6bd8": {
+      "SKU": 7599,
+      "DESCRIPCIÓN": "BBC Cajica Miel Nr330ccX4"
+    },
+    "a2e9b8a7-9424-49fd-b30b-8d082f0c2272": {
+      "SKU": 7605,
+      "DESCRIPCIÓN": "BBC Monserrate Rj Nr330ccX4"
+    },
+    "821ee2b0-2b1c-4fa5-bec1-147b273cbce1": {
+      "SKU": 7993,
+      "DESCRIPCIÓN": "Budweiser Lta CO 269ccX24."
+    },
+    "d1583155-b7f1-4399-9ff6-8c381d70eb05": {
+      "SKU": 8042,
+      "DESCRIPCIÓN": "Budweiser Nr 250ccX6"
+    },
+    "c6810bbb-eea0-4a87-9cac-4e0a008b2db7": {
+      "SKU": 8878,
+      "DESCRIPCIÓN": "Malta Leona Pet 400cc x 6"
+    },
+    "62e087e5-8c12-4456-a68b-fe4151f4551b": {
+      "SKU": 9480,
+      "DESCRIPCIÓN": "POKER RN 1000cc X 13"
+    },
+    "f8a6f70b-550e-4da0-b8b4-bcb1ae52fa62": {
+      "SKU": 9482,
+      "DESCRIPCIÓN": "Aguila Lig RN 1000cc X 13"
+    },
+    "c50ac59c-16f9-44c9-b147-d0c72a929bf7": {
+      "SKU": 9494,
+      "DESCRIPCIÓN": "AGUILA RN 1000cc X 13"
+    },
+    "1b1024e6-c7df-4b7d-8210-d6ae025a93e6": {
+      "SKU": 9508,
+      "DESCRIPCIÓN": "Coronita NR 210cc X 6"
+    },
+    "40eb6dc8-0c83-422a-99c4-a16e56e8b34f": {
+      "SKU": 9672,
+      "DESCRIPCIÓN": "Budweiser Lta 269ccX6 TERMO."
+    },
+    "cb06dff1-684b-4760-86fc-1219bf28030a": {
+      "SKU": 11969,
+      "DESCRIPCIÓN": "Pony Malta Pet 2.0L X6"
+    },
+    "5e4c08ab-2ec4-464c-a26e-700e39b10d04": {
+      "SKU": 12026,
+      "DESCRIPCIÓN": "Agua Zalva Sin Gas Pet 600 X 12"
+    },
+    "df4e5262-f6da-4b15-aad0-f0698c443d1e": {
+      "SKU": 13451,
+      "DESCRIPCIÓN": "COSTENA BACANA BR 320CCX30"
+    },
+    "353f26bd-f091-4f78-84bd-b5fc96d60931": {
+      "SKU": 14703,
+      "DESCRIPCIÓN": "AGUILA 0.0 LTA 330CCX6"
+    },
+    "aabe344d-199c-40f5-b06a-57345744624b": {
+      "SKU": 14709,
+      "DESCRIPCIÓN": "COSTENA BACANA LATA 330CCX6"
+    },
+    "706cbf68-9d9f-453d-8b24-79cee7a8fff4": {
+      "SKU": 15007,
+      "DESCRIPCIÓN": "Nativa BR 330x30 Norte"
+    },
+    "fa919e49-935e-4f76-9011-97f5bb7939b9": {
+      "SKU": 16210,
+      "DESCRIPCIÓN": "PONY MALTA LTA 330CCX 6 NUEVO"
+    },
+    "5e7e223e-fdb4-4bd7-b698-68cbbe135163": {
+      "SKU": 16466,
+      "DESCRIPCIÓN": "AUSTEN LTA 330CC X6"
+    },
+    "8439093a-8f24-433a-8497-43f3a6efd546": {
+      "SKU": 17155,
+      "DESCRIPCIÓN": "CORONA EXTRA 269 LTA X6 REM"
+    },
+    "674b1300-de3f-4cce-9c33-0f7bb9949dcf": {
+      "SKU": 20463,
+      "DESCRIPCIÓN": "STELLA ARTOIS NRB 300CC X6"
+    },
+    "ef0f5d64-9dd0-43bc-9021-1fde6105847a": {
+      "SKU": 20867,
+      "DESCRIPCIÓN": "COSTEÑA RB 330CC X30"
+    },
+    "ac57f561-14b4-4bb0-80dc-d5cb1256027b": {
+      "SKU": 21161,
+      "DESCRIPCIÓN": "BBC ROSE NR BOT 330CC X4"
+    },
+    "87ff22d4-0fe9-43cc-b093-5b7d7d81e415": {
+      "SKU": 21173,
+      "DESCRIPCIÓN": "PONY MALTA LESS SUGAR PET 1000CC X15"
+    },
+    "1506bf9c-71f0-4367-9907-2c3bd0704b3b": {
+      "SKU": 21189,
+      "DESCRIPCIÓN": "MICHELOB ULTRA LATA 269CC X6 PL"
+    },
+    "1c396ed8-6509-4e67-a4d3-6dd2203ef323": {
+      "SKU": 21255,
+      "DESCRIPCIÓN": "CORONA CERO NRB 330CC X6"
+    },
+    "96b33bf0-6bdc-4c81-9814-ac6ae4f13b3b": {
+      "SKU": 21730,
+      "DESCRIPCIÓN": "REDDS ROSE LTA 269CC X6"
+    },
+    "f31f1a97-2322-4802-ac7c-880e2a48d193": {
+      "SKU": 21892,
+      "DESCRIPCIÓN": "CLUB COLOMBIA CAFE LTA 269CC X6"
+    },
+    "c2d98994-5e5b-43d1-8313-1e9dd82e9e4c": {
+      "SKU": 21951,
+      "DESCRIPCIÓN": "BUDWEISER LTA 269CC X12 LN9"
+    },
+    "9e011425-ff89-434c-a800-d26ad678afaa": {
+      "SKU": 22006,
+      "DESCRIPCIÓN": "AGUILA ORIG LTA 330CC X12 LN9"
+    },
+    "13c0def9-4d4a-41de-8ddb-c43bf2ead2a0": {
+      "SKU": 22039,
+      "DESCRIPCIÓN": "MICHELOB ULTRA AMBAR NR 355CC X6 MX"
+    },
+    "c954f9ef-cb1c-48d2-ae4d-1a48ca6c507d": {
+      "SKU": 22242,
+      "DESCRIPCIÓN": "CORONA CERO 269 LTA X6 REEMP"
+    },
+    "393cb00f-cc21-4df9-a03e-791d1381df9b": {
+      "SKU": 3500005,
+      "DESCRIPCIÓN": "Envase Costeñita 175R"
+    },
+    "3fdf6200-45b5-4400-ba12-3e242ebdc8f0": {
+      "SKU": 3500162,
+      "DESCRIPCIÓN": "Envase Marron 330R"
+    },
+    "a783d519-4010-434a-86c4-cf31acefb61c": {
+      "SKU": 3500446,
+      "DESCRIPCIÓN": "Envase Marron Club Col 330R"
+    },
+    "3b1325ff-4e90-4b1a-a298-18d1c58176ed": {
+      "SKU": 3500887,
+      "DESCRIPCIÓN": "BOTELLA FLINT 1000R"
+    },
+    "7ccef52c-b9a9-48d1-aa5f-e6eb7b402d3e": {
+      "SKU": 3500888,
+      "DESCRIPCIÓN": "BOTELLA MARRON 1000CC"
+    },
+    "9101f197-d1d8-4e76-8036-d01fd9b46360": {
+      "SKU": 3501430,
+      "DESCRIPCIÓN": "ENVASE COSTENA BACANA 320CC R"
+    }
+  },
+  "Auxiliares": {
+    "15930f01-d2e7-44e8-b0a7-62ca4343524e": {
+      "Cedula": 1001877560,
+      "Nombre": "CARLOS SUAREZ",
+      "Rol": "AUXILIAR"
+    },
+    "5f6dfd7c-373a-4136-ab0c-811e6b191d22": {
+      "Cedula": 1007979871,
+      "Nombre": "MILTON J. SANTIAGO",
+      "Rol": "AUXILIAR"
+    },
+    "79508de6-dbf0-498d-8783-bb4a1633c15b": {
+      "Cedula": 1140899430,
+      "Nombre": "ADALBERTO CAMPO",
+      "Rol": "AUXILIAR"
+    },
+    "8b0d38fe-99bd-4b88-9153-978ae51b362e": {
+      "Cedula": 1143441324,
+      "Nombre": "CRISTIAN PARRA",
+      "Rol": "AUXILIAR"
+    },
+    "f262a33d-b2d0-4126-a3ed-62dd74041399": {
+      "Cedula": 1047341779,
+      "Nombre": "JHONATAN GONZALEZ",
+      "Rol": "AUXILIAR"
+    },
+    "27c46652-c92d-4f9f-80c4-55271918897f": {
+      "Cedula": 1143432920,
+      "Nombre": "JOSE PEREZ",
+      "Rol": "AUXILIAR"
+    },
+    "46a03a4e-2105-4b2a-b9f9-7eb8d204b6b4": {
+      "Cedula": 1004130412,
+      "Nombre": "LUIS AYALA",
+      "Rol": "AUXILIAR"
+    },
+    "8a8bafda-c030-40b2-bcee-2b41dc309f1f": {
+      "Cedula": 1043116337,
+      "Nombre": "OSCAR MAZO",
+      "Rol": "AUXILIAR"
+    },
+    "d4e7fe10-ab44-4227-a979-fa8167148fa7": {
+      "Cedula": 1007963759,
+      "Nombre": "WILIAM POTES",
+      "Rol": "AUXILIAR"
+    },
+    "fdaf3a3d-5f03-4f55-bdcb-00bcdbfa27fe": {
+      "Cedula": 8761573,
+      "Nombre": "WILMAN CUJIA",
+      "Rol": "AUXILIAR"
+    },
+    "3686ef00-622d-4f7c-90f6-f7b5d811275e": {
+      "Cedula": 1048221769,
+      "Nombre": "YESID OSORIO",
+      "Rol": "AUXILIAR"
+    },
+    "aba026ce-daa1-42ff-b17c-e905bc50c307": {
+      "Cedula": 1045733738,
+      "Nombre": "ANDREWS BANQUETH",
+      "Rol": "AUXILIAR"
+    },
+    "8cfb12bd-4e49-4f65-a4b3-c8f10034fec9": {
+      "Cedula": 1047035658,
+      "Nombre": "JUAN ARJONA",
+      "Rol": "AUXILIAR"
+    }
+  },
+  "Verificadores": {
+    "5318883a-d57d-40d2-8c11-f9a81b49800b": {
+      "Cedula": 8778126,
+      "Nombre": "MILTON SANTIAGO LLANOS",
+      "Rol": "VERIFICADOR"
+    },
+    "8525a031-4b60-4a96-9027-b14645d3682b": {
+      "Cedula": 1046816420,
+      "Nombre": "ESTEIMBER ESCORCIA",
+      "Rol": "VERIFICADOR"
+    },
+    "07285861-c060-4634-860e-15248648245d": {
+      "Cedula": 1001914692,
+      "Nombre": "DEYMER BENITEZ",
+      "Rol": "VERIFICADOR"
+    },
+    "e6f0062b-4766-4fe9-a874-a67d573872b4": {
+      "Cedula": 1045729588,
+      "Nombre": "FABIAN RODRIGUEZ",
+      "Rol": "VERIFICADOR"
+    },
+    "cb63b8cf-e09a-410a-a988-210c23be0cf1": {
+      "Cedula": 1042441590,
+      "Nombre": "HANNER ARBELAEZ",
+      "Rol": "VERIFICADOR"
+    },
+    "1b1c63a5-ce73-4b39-b10b-6cadbef4bbed": {
+      "Cedula": 72260030,
+      "Nombre": "JHOAN GUITIERREZ",
+      "Rol": "VERIFICADOR"
+    },
+    "7f9cb41d-011a-4b13-b2f7-a7f4d0cb14db": {
+      "Cedula": 1045678073,
+      "Nombre": "OSNEIDER DUCON",
+      "Rol": "VERIFICADOR"
+    },
+    "009a9482-3107-4070-8e70-d6d218d4d744": {
+      "Cedula": 1002058666,
+      "Nombre": "SAMIR PEREZ",
+      "Rol": "VERIFICADOR"
+    }
+  },
+  "Inventario": {
+    "650aea15-9fe6-468e-b2c6-db9086daaf08": {
+      "Cedula": 1007173368,
+      "Nombre": "EDUARDO VELAQUEZ",
+      "Rol": "INVENTARIO"
+    },
+    "84756e2d-f99e-4194-920d-0ac7770916aa": {
+      "Cedula": 1007117125,
+      "Nombre": "BRANDON MISAT",
+      "Rol": "INVENTARIO"
+    },
+    "c48bcc03-1928-48da-838d-d3877ca03cae": {
+      "Cedula": 1129543137,
+      "Nombre": "LUIS CAMPO",
+      "Rol": "INVENTARIO"
+    }
+  },
+  "Flota": {
+    "0432bb9b-263b-433e-bc3a-a01e9ee75e6e": {
+      "IDVH": "LPZ372",
+      "Placa": ""
+    },
+    "4d392a95-24f0-4cec-bfeb-f7c243b1e8ba": {
+      "IDVH": "KSP219",
+      "Placa": ""
+    },
+    "c1a80b81-85e2-4587-a5f7-74c53ba24659": {
+      "IDVH": "KSP215",
+      "Placa": ""
+    },
+    "91d4c741-3e30-4e2b-acee-5e9a44631d5a": {
+      "IDVH": "JTY663",
+      "Placa": ""
+    },
+    "61dd099b-3235-47c7-9b67-d9402dd27dbb": {
+      "IDVH": "JTY668",
+      "Placa": ""
+    },
+    "f607d3b1-cf32-4904-99bf-08394207e8c7": {
+      "IDVH": "LJV115",
+      "Placa": ""
+    },
+    "b9fc9b24-fb84-4adc-943d-0212aa1510e3": {
+      "IDVH": "LJT743",
+      "Placa": ""
+    },
+    "faf14364-7d92-4285-ace4-c70bcdd6278f": {
+      "IDVH": "LGU713",
+      "Placa": ""
+    },
+    "b56f434b-1505-4cea-93b5-3bda6642bcbe": {
+      "IDVH": "WGA198",
+      "Placa": ""
+    },
+    "8c33210c-3ad4-407e-9e8a-82c79433201d": {
+      "IDVH": "SZM530",
+      "Placa": ""
+    },
+    "f19ea9e8-4b9f-4da1-af73-b847b37af037": {
+      "IDVH": "UYZ684",
+      "Placa": ""
+    },
+    "07f54f9d-2ca4-4d7e-9b29-39972992a2fb": {
+      "IDVH": "NSF609",
+      "Placa": ""
+    },
+    "3974f006-9434-4b47-a7eb-8aaeff97b339": {
+      "IDVH": "GNI884",
+      "Placa": ""
+    },
+    "c80e57f0-5a6f-4ac1-ae11-e594e44efbd0": {
+      "IDVH": "OAA994",
+      "Placa": ""
+    },
+    "73112497-814b-4b05-8df0-118bf9b3aa0c": {
+      "IDVH": "TDU802",
+      "Placa": ""
+    },
+    "e76a7f61-58f4-4c59-9140-7a287f7693db": {
+      "IDVH": "VCL818",
+      "Placa": ""
+    },
+    "81f90e68-6d12-450d-b85d-f393e6c0de30": {
+      "IDVH": "LGU473",
+      "Placa": ""
+    },
+    "39b65409-0792-42ea-a828-686c601b1497": {
+      "IDVH": "JTX923",
+      "Placa": ""
+    },
+    "7160cdb6-7dd4-484c-b218-833ac8af5396": {
+      "IDVH": "ETM749",
+      "Placa": ""
+    },
+    "8384ce73-fd13-481f-8bec-b8b21fbb7cb3": {
+      "IDVH": "LJT712",
+      "Placa": ""
+    },
+    "3c776e06-2525-4eb6-b4be-2c4a94d3cc0f": {
+      "IDVH": "LJT724",
+      "Placa": ""
+    },
+    "1aff44ef-d5af-4ecf-ac25-7da5fc0b66b3": {
+      "IDVH": "JTX435",
+      "Placa": ""
+    },
+    "25195930-b552-4663-b2b9-619f5660018f": {
+      "IDVH": "LGU476",
+      "Placa": ""
+    },
+    "26f45c24-90ea-4365-b26d-6b30320fc659": {
+      "IDVH": "JTX902",
+      "Placa": ""
+    },
+    "a75c2614-1ce9-4874-a012-b610d67ac76b": {
+      "IDVH": "LLL298",
+      "Placa": ""
+    },
+    "8fcf8e78-6aaa-496d-a34e-4d140a54f700": {
+      "IDVH": "VEL150",
+      "Placa": ""
+    },
+    "0dcbec42-0047-45c6-85eb-96f0b3b9a658": {
+      "IDVH": "LCN049",
+      "Placa": ""
+    },
+    "5c859742-e339-4a08-99e5-df412126f9f4": {
+      "IDVH": "LJT533",
+      "Placa": ""
+    },
+    "74c80f09-2446-4672-8bc0-7eb674b61707": {
+      "IDVH": "LGU383",
+      "Placa": ""
+    },
+    "7f2cac1f-e732-4a23-aae3-bd06f4bac2d7": {
+      "IDVH": "TMV884",
+      "Placa": ""
+    },
+    "210a4f7e-3193-4365-9152-5d3d378baf8b": {
+      "IDVH": "LJU875",
+      "Placa": ""
+    },
+    "9469b543-7e9e-411c-b864-09790edaec2a": {
+      "IDVH": "VCL949",
+      "Placa": ""
+    },
+    "e14b6fdc-af78-4333-922a-a6480fc8de1c": {
+      "IDVH": "KSP213",
+      "Placa": ""
+    },
+    "7c7d1cdb-5160-4587-8772-4afc9b892c29": {
+      "IDVH": "VEN055",
+      "Placa": ""
+    },
+    "8f6fbfc9-5fc8-476e-8407-c76e9a321530": {
+      "IDVH": "LPZ370",
+      "Placa": ""
+    },
+    "ee0859ea-83d7-4eda-8544-238ee2d6c718": {
+      "IDVH": "LJT513",
+      "Placa": ""
+    },
+    "b59d373d-ba13-4485-9a4f-6f19ad2d57b7": {
+      "IDVH": "JTX437",
+      "Placa": ""
+    },
+    "cd09f33b-09ec-4055-8317-8a197ee6a3fe": {
+      "IDVH": "VEN015",
+      "Placa": ""
+    },
+    "68570e47-0a30-44e0-a2b5-fe6aa0b1afb8": {
+      "IDVH": "VCM590",
+      "Placa": ""
+    },
+    "40d3a264-7ebf-4742-b996-0a4e8daa5272": {
+      "IDVH": "LCN040",
+      "Placa": ""
+    },
+    "fa972305-f44e-4b64-b4fa-e721bb365128": {
+      "IDVH": "VEP930",
+      "Placa": ""
+    },
+    "9b036162-6a56-40f3-93f5-b55f6f8af712": {
+      "IDVH": "LJU874",
+      "Placa": ""
+    },
+    "21a68767-3a67-45f4-a0d0-af5d7b2184de": {
+      "IDVH": "KSP873",
+      "Placa": ""
+    },
+    "f7ab070a-828d-484a-bfd7-a973392a1b2b": {
+      "IDVH": "LCN033",
+      "Placa": ""
+    },
+    "0d3c080d-b184-45dd-8595-cfa9923b770e": {
+      "IDVH": "LJT741",
+      "Placa": ""
+    },
+    "72e3e413-6a71-4a9c-90ec-0f0db344d075": {
+      "IDVH": "LGU448",
+      "Placa": ""
+    },
+    "690b8b98-8788-454a-9440-90f4729c9473": {
+      "IDVH": "VEN064",
+      "Placa": ""
+    },
+    "b8869aa0-1219-419b-99d1-15cf26546ceb": {
+      "IDVH": "VEN998",
+      "Placa": ""
+    },
+    "f594838b-8702-4f29-b675-f53dc38a9f84": {
+      "IDVH": "LJT852",
+      "Placa": ""
+    },
+    "dd56989c-9242-480a-8881-3a28022aa665": {
+      "IDVH": "LJT711",
+      "Placa": ""
+    },
+    "9c9b0bb6-319d-4ba4-93e7-6cc4339c8cab": {
+      "IDVH": "LJT726",
+      "Placa": ""
+    },
+    "994fe60f-0c8a-4ade-a586-0ce2996f7899": {
+      "IDVH": "JTX918",
+      "Placa": ""
+    },
+    "f590aa6d-29b7-4d70-8b6c-ec6399e2ac52": {
+      "IDVH": "LPZ371",
+      "Placa": ""
+    },
+    "c4b2a7f6-74ea-4e7b-9bfe-3ac1cb095377": {
+      "IDVH": "VEL950",
+      "Placa": ""
+    },
+    "f89996be-d330-4114-83fc-53d8f101bdb9": {
+      "IDVH": "VEK254",
+      "Placa": ""
+    },
+    "3ef5dfb1-eb40-4cd2-b0ba-cb8f4710f4a2": {
+      "IDVH": "VCM612",
+      "Placa": ""
+    },
+    "a3164087-9c3b-47e1-9f2e-1c056ffa1413": {
+      "IDVH": "VCL945",
+      "Placa": ""
+    },
+    "75ab8bfc-bc8f-4944-bcfb-11759d4acc59": {
+      "IDVH": "LCN045",
+      "Placa": ""
+    },
+    "dcbe8a6b-7c41-4164-a0e6-6ba676eefaf2": {
+      "IDVH": "KSP226",
+      "Placa": ""
+    },
+    "59974934-b67e-46d2-9c5d-449fe7c636f2": {
+      "IDVH": "VEK257",
+      "Placa": ""
+    },
+    "5ac976ef-eb46-4b17-a593-39458d5a4676": {
+      "IDVH": "LGU454",
+      "Placa": ""
+    },
+    "44ce5940-616a-488f-8065-1072ca7860e2": {
+      "IDVH": "TLN903",
+      "Placa": ""
+    },
+    "c979fa83-0ab9-4937-a52f-16a570fe264e": {
+      "IDVH": "WGW183",
+      "Placa": ""
+    },
+    "484fc0bf-ed22-4977-9759-ff2405c1e0be": {
+      "IDVH": "SZM244",
+      "Placa": ""
+    },
+    "6e27b727-103a-4e9f-8250-8a469cefaccc": {
+      "IDVH": "VEK255",
+      "Placa": ""
+    },
+    "0e504290-4407-44ca-8375-62d6ca911f1f": {
+      "IDVH": "USC911",
+      "Placa": ""
+    },
+    "d87878df-a315-411a-8bca-cc785f18433f": {
+      "IDVH": "LCN042",
+      "Placa": ""
+    },
+    "484df011-e2f7-43d9-85ec-9278c936c573": {
+      "IDVH": "LGU453",
+      "Placa": ""
+    },
+    "9671eb91-2f1a-473e-9a7d-5196b1c126d4": {
+      "IDVH": "XMC219",
+      "Placa": ""
+    },
+    "bac92e17-aaac-489a-a258-c2d0ec6be423": {
+      "IDVH": "VEN041",
+      "Placa": ""
+    },
+    "55a1a323-20b6-4e9e-89da-85fae7bb2e06": {
+      "IDVH": "VEK259",
+      "Placa": ""
+    },
+    "10cb1299-0640-4eca-96df-1d2c566e8006": {
+      "IDVH": "SZK657",
+      "Placa": ""
+    },
+    "b6b923b2-ec5e-4f95-87ad-d4fe05dfb8cf": {
+      "IDVH": "LPZ368",
+      "Placa": ""
+    },
+    "487c0a4e-7d90-4385-a951-bdb12da54792": {
+      "IDVH": "LPZ369",
+      "Placa": ""
+    },
+    "de4f9696-3295-468b-8d1f-fa938dc1588d": {
+      "IDVH": "SZL208",
+      "Placa": ""
+    },
+    "b727d6a6-ac17-4965-a3de-55394c42155f": {
+      "IDVH": "KPO883",
+      "Placa": ""
+    },
+    "fed2843c-84a8-425d-92c4-8f2ca77c75e1": {
+      "IDVH": "LGU444",
+      "Placa": ""
+    },
+    "e4421627-146e-40ef-ab15-6214670a328b": {
+      "IDVH": "VEN982",
+      "Placa": ""
+    },
+    "6db33f8c-0f97-49b2-8e42-5ebb85bf018a": {
+      "IDVH": "LJW786",
+      "Placa": ""
+    },
+    "2459244d-aad3-4fba-97ce-35043589475a": {
+      "IDVH": "SZK061",
+      "Placa": ""
+    },
+    "45a3cdf3-6ce2-4898-977e-ce7f5c315e56": {
+      "IDVH": "WGU689",
+      "Placa": ""
+    },
+    "f210ecdb-949a-40ef-9bd9-26da79ad7fb1": {
+      "IDVH": "LGU475",
+      "Placa": ""
+    },
+    "deb4d2a3-bd78-472a-b503-490a152fa6c1": {
+      "IDVH": "TGL313",
+      "Placa": ""
+    },
+    "7e4d717e-3ef8-4417-88f2-3f5b661dcc1b": {
+      "IDVH": "LGU494",
+      "Placa": ""
+    },
+    "a14938c7-22d9-4fe2-9447-fde78f916787": {
+      "IDVH": "VEL178",
+      "Placa": ""
+    },
+    "b58f4f0c-824f-4513-94b2-c2e24d53d7b3": {
+      "IDVH": "01b5801b",
+      "Placa": ""
+    },
+    "2bbc7d7c-8e14-4886-9e4b-57656eba367f": {
+      "IDVH": "5b8c8759",
+      "Placa": ""
+    },
+    "ea9a71f8-e3dc-4855-9107-8acee61985dc": {
+      "IDVH": "7b386b75",
+      "Placa": ""
+    },
+    "35c4a1f1-e148-4206-90b7-2452f4e2c85d": {
+      "IDVH": "a49262be",
+      "Placa": ""
+    }
+  }
+}

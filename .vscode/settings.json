@@ -1,0 +1,22 @@
+{
+    "java.configuration.updateBuildConfiguration": "disabled",
+    "java.compile.nullAnalysis.mode": "disabled",
+    "java.errors.incompleteClasspath.severity": "ignore",
+    "java.import.gradle.enabled": false,
+    "java.import.gradle.wrapper.enabled": false,
+    "java.configuration.runtimes": [],
+    "java.clean.workspace": false,
+    "java.project.importOnFirstTimeStartup": "disabled",
+    "files.exclude": {
+        "**/android/**/*.java": true,
+        "**/android/app/src/main/java/io/flutter/plugins/GeneratedPluginRegistrant.java": true,
+        "**/android/app/src/main/java/com/example/recount_pro/MainActivity.java": true
+    },
+    "dart.flutterSdkPath": "C:\\flutter",
+    "dart.analysisExcludedFolders": [
+        "android/",
+        "android/app/src/main/java/"
+    ],
+    "java.project.sourcePaths": [],
+    "java.project.referencedLibraries": []
+}
