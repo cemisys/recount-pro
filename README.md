@@ -14,17 +14,14 @@ Una aplicación móvil profesional para gestión de inventarios y conteos de veh
 ### ✨ Nuevas Características v1.0.0
 - 🔐 **Sistema de registro automático** por primera vez integrado en login
 - 📄 **Generación de PDF multiplataforma** compatible con Web y Móvil
-- 👥 **Soporte para 8 verificadores** predefinidos con credenciales automáticas
+- 👥 **Soporte para verificadores** predefinidos con credenciales automáticas
 - 🎨 **Interfaz moderna y responsive** con colores e iconos descriptivos
 - ⚡ **Vista previa en tiempo real** de credenciales mientras se escribe
 - 🔒 **Autenticación Firebase** robusta con validación completa
 - 📱 **Experiencia de usuario optimizada** con feedback visual inmediato
 
 ### 👥 Verificadores Soportados
-La aplicación incluye soporte nativo para registro automático de:
-- MILTON SANTIAGO LLANOS, ESTEIMBER ESCORCIA, DEYMER BENITEZ
-- FABIAN RODRIGUEZ, HANNER ARBELAEZ, JHOAN GUITIERREZ
-- OSNEIDER DUCON, SAMIR PEREZ
+La aplicación incluye soporte nativo para registro automático.
 
 **Formato de credenciales**: `{cédula}@recount.com` / `{cédula}123`
 
